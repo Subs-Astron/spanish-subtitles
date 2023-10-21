@@ -1,0 +1,2777 @@
+1
+00:00:22,899 --> 00:00:23,900
+Ya llegó.
+
+2
+00:00:31,491 --> 00:00:33,618
+ENTRADA AL ESCENARIO
+
+3
+00:00:40,041 --> 00:00:43,044
+Señoritas, lo lamento.
+El auditorio ya se llenó por hoy.
+
+4
+00:00:43,920 --> 00:00:45,130
+Por favor, vuelvan mañana.
+
+5
+00:00:48,800 --> 00:00:51,052
+- ¿Qué molde?
+- El izquierdo retiene más calor.
+
+6
+00:00:51,928 --> 00:00:53,345
+Al aire en dos. Ve a la silla.
+
+7
+00:00:53,346 --> 00:00:54,972
+¿Conseguiste el cloruro de sodio?
+
+8
+00:00:54,973 --> 00:00:57,058
+- Claro.
+- ¿Roma o San Marzano?
+
+9
+00:00:57,684 --> 00:00:59,227
+Roma. Gracias, James.
+
+10
+00:01:00,103 --> 00:01:01,562
+Nunca respondiste mi pregunta
+
+11
+00:01:01,563 --> 00:01:04,064
+sobre el patrocinio de Presto.
+Sé qué opinas de...
+
+12
+00:01:04,065 --> 00:01:06,150
+Comenzaré el programa con eso, Walter.
+
+13
+00:01:06,151 --> 00:01:08,110
+¿En serio? ¿No es una broma?
+
+14
+00:01:08,111 --> 00:01:10,030
+Gracias, Señor.
+
+15
+00:01:10,614 --> 00:01:11,822
+Las latas están en la barra.
+
+16
+00:01:11,823 --> 00:01:15,076
+No olvides sonreír de vez en cuando.
+Haz un buen programa. Adiós.
+
+17
+00:01:17,287 --> 00:01:20,498
+- ¿Qué clase de sal quería?
+- No yodada. Traje sal kosher.
+
+18
+00:01:24,753 --> 00:01:27,422
+Todo debe ser perfecto.
+Las etiquetas al frente.
+
+19
+00:01:29,591 --> 00:01:30,841
+Todo está en los carteles.
+
+20
+00:01:30,842 --> 00:01:32,509
+- No te preocupes.
+- Sabe qué hacer.
+
+21
+00:01:32,510 --> 00:01:35,179
+Bienvenidas, señoritas.
+El programa ya comenzará.
+
+22
+00:01:35,180 --> 00:01:38,516
+Quiero sonrisas grandes,
+energía y felicidad.
+
+23
+00:01:39,184 --> 00:01:41,186
+Energía. Sonrisas grandes. Todas.
+
+24
+00:01:41,686 --> 00:01:43,395
+Y comenzamos.
+
+25
+00:01:43,396 --> 00:01:46,566
+Estamos al aire en cinco, cuatro, tres...
+
+26
+00:01:49,194 --> 00:01:50,194
+Bienvenidos a todos.
+
+27
+00:01:50,195 --> 00:01:53,949
+Mi nombre es Elizabeth Zott
+y esto es <i>Cena a las seis</i>.
+
+28
+00:01:57,244 --> 00:01:58,245
+¿Ven esto?
+
+29
+00:02:01,665 --> 00:02:04,876
+{\an8}Sopas Presto.
+Se preparan rápido, se preparan presto.
+
+30
+00:02:05,961 --> 00:02:08,378
+- Yo escribí eso.
+- <i>Nos ahorran tiempo.</i>
+
+31
+00:02:08,379 --> 00:02:11,424
+{\an8}Porque están llenas de químicos.
+Y no de los buenos.
+
+32
+00:02:12,467 --> 00:02:14,176
+{\an8}Pero sí habrá una sorpresa.
+
+33
+00:02:14,177 --> 00:02:16,262
+{\an8}Alimenta a tus seres queridos y morirán.
+
+34
+00:02:16,263 --> 00:02:17,763
+{\an8}Así ahorrarás tiempo,
+
+35
+00:02:17,764 --> 00:02:19,391
+{\an8}porque ya no tendrás que alimentarlos.
+
+36
+00:02:23,311 --> 00:02:26,188
+Hoy prepararemos un
+platillo favorito, lasaña,
+
+37
+00:02:26,189 --> 00:02:28,441
+pero probaremos una variable nueva.
+
+38
+00:02:32,070 --> 00:02:34,155
+<i>Cuidar a los nuestros requiere trabajo.</i>
+
+39
+00:02:34,698 --> 00:02:35,781
+<i>Trabajo de verdad.</i>
+
+40
+00:02:35,782 --> 00:02:37,741
+<i>Quien diga lo contrario no prepara la cena</i>
+
+41
+00:02:37,742 --> 00:02:39,494
+<i>para una familia de cinco cada noche.</i>
+
+42
+00:02:40,078 --> 00:02:43,539
+<i>Así que preparemos algo abundante.
+Preparemos algo delicioso.</i>
+
+43
+00:02:43,540 --> 00:02:46,000
+<i>Preparemos algo que mantiene
+a nuestra familia viva</i>
+
+44
+00:02:46,001 --> 00:02:47,794
+<i>y que nos deja sobras para la semana.</i>
+
+45
+00:02:48,670 --> 00:02:50,171
+¿Comenzamos?
+
+46
+00:03:45,727 --> 00:03:48,187
+BASADA EN EL LIBRO DE BONNIE GARMUS
+
+47
+00:03:48,188 --> 00:03:51,733
+LECCIONES DE QUÍMICA
+
+48
+00:04:05,288 --> 00:04:09,334
+SIETE AÑOS ANTES
+
+49
+00:05:09,644 --> 00:05:11,396
+{\an8}SEÑORITA HASTINGS
+¡NOMINA A TU MEJOR CHICA!
+
+50
+00:05:13,273 --> 00:05:16,442
+{\an8}¿Señorita Zott?
+
+51
+00:05:16,443 --> 00:05:17,860
+Buenos días, señorita Frask.
+
+52
+00:05:17,861 --> 00:05:20,613
+Espero que te inscribas
+al concurso de Señorita Hastings.
+
+53
+00:05:20,614 --> 00:05:22,698
+Tu laboratorio no tiene secretarias
+
+54
+00:05:22,699 --> 00:05:24,742
+y a tus chicos
+les serviría una concursante.
+
+55
+00:05:24,743 --> 00:05:25,911
+No soy una secretaria.
+
+56
+00:05:27,162 --> 00:05:29,330
+Las técnicas también pueden participar.
+
+57
+00:05:29,331 --> 00:05:30,915
+Cualquier apoyo femenino.
+
+58
+00:05:30,916 --> 00:05:33,585
+Gracias,
+pero los concursos no me divierten.
+
+59
+00:05:34,669 --> 00:05:36,296
+¿Y qué sí?
+
+60
+00:05:36,963 --> 00:05:39,757
+Las arqueobacterias
+me apasionan últimamente.
+
+61
+00:05:39,758 --> 00:05:42,384
+Las membranas y los lípidos
+se unen mediante enlaces éter
+
+62
+00:05:42,385 --> 00:05:45,889
+a diferencia de las bacterias,
+que se unen por enlaces éster.
+
+63
+00:05:46,389 --> 00:05:47,390
+Y me gusta cocinar.
+
+64
+00:05:48,350 --> 00:05:50,100
+Avísame si cambias de opinión.
+
+65
+00:05:50,101 --> 00:05:51,310
+No lo haré, pero gracias.
+
+66
+00:05:51,311 --> 00:05:52,603
+Si no te molesta,
+
+67
+00:05:52,604 --> 00:05:54,814
+debo limpiar
+antes de que lleguen los químicos.
+
+68
+00:05:55,273 --> 00:05:56,900
+Te anotaré en la lista como "tal vez".
+
+69
+00:06:22,425 --> 00:06:23,551
+¡No me molesten!
+
+70
+00:06:23,552 --> 00:06:26,096
+¿Dr. Evans? Soy Dr. Donatti.
+
+71
+00:06:29,140 --> 00:06:30,141
+Espere un momento.
+
+72
+00:06:33,937 --> 00:06:35,272
+No estás vestido.
+
+73
+00:06:35,939 --> 00:06:38,275
+En algunas culturas
+pensarían que llevo mucha ropa.
+
+74
+00:06:39,401 --> 00:06:41,236
+Otra vez faltaste
+a la reunión de la junta.
+
+75
+00:06:42,571 --> 00:06:43,697
+Tengo mucho trabajo.
+
+76
+00:06:44,197 --> 00:06:46,490
+Todos esperan con ansias tus resultados.
+
+77
+00:06:46,491 --> 00:06:48,076
+Y todos tendrán que esperar.
+
+78
+00:06:48,577 --> 00:06:50,953
+Estarás listo para presentar tu propuesta
+
+79
+00:06:50,954 --> 00:06:53,122
+para la beca de la fundación Remsen,
+¿verdad?
+
+80
+00:06:53,123 --> 00:06:56,166
+Porque esas becas
+mantienen los equipos funcionando.
+
+81
+00:06:56,167 --> 00:06:58,460
+Hay algunos equipos
+que ya no deberían funcionar.
+
+82
+00:06:58,461 --> 00:07:00,964
+Ahora, si tú y tu pie me disculpan.
+
+83
+00:07:01,965 --> 00:07:04,593
+¿Entiendes que soy tu jefe?
+
+84
+00:07:05,468 --> 00:07:06,468
+Despídeme.
+
+85
+00:07:06,469 --> 00:07:07,761
+NO PASE
+
+86
+00:07:07,762 --> 00:07:08,930
+{\an8}NO SE DEMORE
+
+87
+00:07:09,514 --> 00:07:12,893
+Querida, ¿puedes limpiar esto
+y traer los vasos de precipitado que pedí?
+
+88
+00:07:13,810 --> 00:07:15,769
+También me gustaría otra taza de café
+
+89
+00:07:15,770 --> 00:07:16,979
+cuando termines con eso.
+
+90
+00:07:16,980 --> 00:07:19,398
+Tardaré un poco. Podría ir a la cafetería.
+
+91
+00:07:19,399 --> 00:07:21,651
+Pero no es el mismo brebaje
+que haces con ese vaso.
+
+92
+00:07:22,402 --> 00:07:24,696
+- Zott.
+- ¿Sí, Dr. Powers?
+
+93
+00:07:25,196 --> 00:07:27,489
+Ya lo hice tres veces. ¿Qué me falta?
+
+94
+00:07:27,490 --> 00:07:30,951
+No ve la conversión
+del grupo carbonilo en un grupo imina.
+
+95
+00:07:30,952 --> 00:07:32,329
+Claro. Yo...
+
+96
+00:07:32,871 --> 00:07:34,497
+Olvidó la catálisis ácida.
+
+97
+00:07:35,916 --> 00:07:37,166
+Gracias. Ya entendí.
+
+98
+00:07:37,167 --> 00:07:39,044
+Caballeros, ¿creen esta tontería?
+
+99
+00:07:40,212 --> 00:07:41,253
+No entiendo.
+
+100
+00:07:41,254 --> 00:07:43,255
+¿Qué tiene Evans que nosotros no tengamos?
+
+101
+00:07:43,256 --> 00:07:44,924
+Es el favorito para el Nobel.
+
+102
+00:07:44,925 --> 00:07:46,008
+Café
+
+103
+00:07:46,009 --> 00:07:47,509
+Ese premio está sobrevalorado.
+
+104
+00:07:47,510 --> 00:07:51,263
+Dice, "Calvin Evans
+es el Richard Feynman de la química".
+
+105
+00:07:51,264 --> 00:07:53,432
+No tiene por qué guardar
+nuestro suministros.
+
+106
+00:07:53,433 --> 00:07:55,477
+¿Cuánta ribosa podría necesitar alguien?
+
+107
+00:07:56,436 --> 00:07:58,020
+Será mejor que Evans tenga cuidado
+
+108
+00:07:58,021 --> 00:08:01,482
+porque el joven Boryweitz
+usurpará la beca este año.
+
+109
+00:08:01,483 --> 00:08:03,150
+Buena suerte con eso, amigo.
+
+110
+00:08:03,151 --> 00:08:05,819
+Parece el plagio
+de una investigación de Vauquelin.
+
+111
+00:08:05,820 --> 00:08:08,447
+- Me baso en su trabajo.
+- Un homenaje.
+
+112
+00:08:08,448 --> 00:08:10,116
+De 1806.
+
+113
+00:08:11,284 --> 00:08:13,035
+Te juro que es más fácil que ganes
+
+114
+00:08:13,036 --> 00:08:14,621
+en Señorita Hastings.
+
+115
+00:08:16,665 --> 00:08:18,457
+- Claro.
+- A menos que Zott
+
+116
+00:08:18,458 --> 00:08:22,671
+- decida participar, ¿o no, chicos?
+- Vamos, corazón.
+
+117
+00:08:23,964 --> 00:08:24,965
+¿Fue por algo que dije?
+
+118
+00:08:32,681 --> 00:08:34,683
+BECA DE LA FUNDACIÓN REMSEN
+FORMULARIO DE SOLICITUD
+
+119
+00:08:35,725 --> 00:08:36,892
+- {\an8}SR.
+- CARGO
+
+120
+00:08:36,893 --> 00:08:38,686
+{\an8}DIRECCIÓN DE LA INSTITUCIÓN DOMICILIO
+
+121
+00:08:38,687 --> 00:08:42,524
+{\an8}Señorita Eliza...
+
+122
+00:08:43,525 --> 00:08:45,609
+- Y le dije a Robert
+- Ahora Fran le dice Robert.
+
+123
+00:08:45,610 --> 00:08:47,278
+Le dije al Dr. Donatti
+
+124
+00:08:47,279 --> 00:08:51,115
+que este concurso debe ser sofisticado,
+elevado. Debe tener dinamismo.
+
+125
+00:08:51,116 --> 00:08:52,576
+Debería tener barra libre.
+
+126
+00:08:53,076 --> 00:08:55,077
+- No hago milagros.
+- Sí los haces.
+
+127
+00:08:55,078 --> 00:08:56,579
+¿Saben qué? Tal vez sí
+
+128
+00:08:56,580 --> 00:08:59,456
+porque me alegra decir que aceptó ir
+
+129
+00:08:59,457 --> 00:09:00,958
+a una categoría de traje de noche
+
+130
+00:09:00,959 --> 00:09:04,087
+antes que a una de talento
+y traje de baño con dinero como premio.
+
+131
+00:09:06,089 --> 00:09:08,924
+Como todos los días,
+el Dr. Evans y su bolsa de nueces.
+
+132
+00:09:08,925 --> 00:09:10,634
+¿Cómo puede alguien sobrevivir así?
+
+133
+00:09:10,635 --> 00:09:12,094
+Y corre.
+
+134
+00:09:12,095 --> 00:09:13,179
+¿Adónde?
+
+135
+00:09:14,014 --> 00:09:16,599
+Solo corre por correr. Es muy peculiar.
+
+136
+00:09:16,600 --> 00:09:18,685
+Y nunca le habla a nadie.
+
+137
+00:09:38,288 --> 00:09:42,583
+Oye, Donatti congeló las horas extra,
+así que no te tardes o habrá problemas.
+
+138
+00:09:42,584 --> 00:09:44,419
+- Me iré pronto.
+- De acuerdo.
+
+139
+00:09:51,176 --> 00:09:55,889
+LABORATORIO DE QUÍMICA
+
+140
+00:10:17,327 --> 00:10:18,328
+Mierda.
+
+141
+00:10:42,561 --> 00:10:44,813
+{\an8}PROPIEDAD DEL DR. CALVIN EVANS
+
+142
+00:12:02,766 --> 00:12:08,187
+Señorita Zott, superviso a más
+de los cien mejores químicos del país,
+
+143
+00:12:08,188 --> 00:12:10,941
+quienes a su vez
+generan trabajos innovadores.
+
+144
+00:12:11,816 --> 00:12:15,527
+Para generar dichos trabajos,
+usan equipos que valen miles de dólares.
+
+145
+00:12:15,528 --> 00:12:19,907
+Así que me preocupo al oír
+que una técnica de laboratorio
+
+146
+00:12:19,908 --> 00:12:24,913
+usa nuestro equipo fuera de horas
+sin la supervisión adecuada.
+
+147
+00:12:25,789 --> 00:12:29,541
+Señor, puedo explicarlo.
+Tengo una maestría en química de la UCLA
+
+148
+00:12:29,542 --> 00:12:32,670
+donde estudié el metabolismo celular
+de los ácidos nucleicos.
+
+149
+00:12:32,671 --> 00:12:37,508
+Dicho todo eso, trabajo fuera de horas,
+nunca en mi horario,
+
+150
+00:12:37,509 --> 00:12:39,760
+y hago mis experimentos
+sobre la abiogénesis.
+
+151
+00:12:39,761 --> 00:12:45,266
+Sintetizo moléculas simples y pequeñas
+en nucleótidos y ácidos nucleicos.
+
+152
+00:12:45,267 --> 00:12:48,520
+Mi investigación es muy prometedora.
+Pienso presentarla para Remsen.
+
+153
+00:12:49,271 --> 00:12:52,439
+Jovencita, al ignorar el hecho
+de que utiliza el equipo del laboratorio
+
+154
+00:12:52,440 --> 00:12:54,483
+sin la supervisión apropiada
+de un químico...
+
+155
+00:12:54,484 --> 00:12:55,734
+Soy química.
+
+156
+00:12:55,735 --> 00:12:57,696
+Nuestros químicos tienen doctorados.
+
+157
+00:12:58,697 --> 00:13:01,907
+Nunca pondría el nombre de Hastings
+en la propuesta de una técnica
+
+158
+00:13:01,908 --> 00:13:05,160
+que presume su maestría en la UCLA.
+
+159
+00:13:05,161 --> 00:13:07,079
+- Fui la mejor de mi clase.
+- Señorita Zott...
+
+160
+00:13:07,080 --> 00:13:08,581
+Mi trabajo hablará por sí solo.
+
+161
+00:13:08,582 --> 00:13:10,375
+No es bastante inteligente.
+
+162
+00:13:12,919 --> 00:13:14,588
+Señorita Zott, no he terminado.
+
+163
+00:13:15,088 --> 00:13:17,631
+¿Qué es eso que oí de que no participará
+
+164
+00:13:17,632 --> 00:13:19,342
+en el concurso de Señorita Hastings?
+
+165
+00:13:19,926 --> 00:13:21,677
+No sabía que es obligatorio.
+
+166
+00:13:21,678 --> 00:13:23,138
+No es obligatorio.
+
+167
+00:13:23,930 --> 00:13:25,891
+Es parte de la cultura de aquí.
+
+168
+00:13:26,933 --> 00:13:29,059
+Le recomiendo que se adentre un poco
+
+169
+00:13:29,060 --> 00:13:31,061
+en el espíritu de Hastings
+
+170
+00:13:31,062 --> 00:13:32,981
+si quiere conservar su empleo.
+
+171
+00:13:34,691 --> 00:13:35,734
+Ya se puede ir.
+
+172
+00:13:41,197 --> 00:13:43,158
+Una sonrisa de vez en cuando no la matará.
+
+173
+00:13:47,412 --> 00:13:48,413
+Señorita Zott.
+
+174
+00:13:51,583 --> 00:13:52,708
+¿Señorita Zott?
+
+175
+00:13:52,709 --> 00:13:54,585
+Oí que se nos unirá al concurso.
+
+176
+00:13:54,586 --> 00:13:57,254
+- ¿Cómo...?
+- Me alegra que cambiaras de opinión.
+
+177
+00:13:57,255 --> 00:13:59,215
+No sé si te enteraste,
+
+178
+00:13:59,216 --> 00:14:01,717
+pero este año habrá
+una categoría de traje de noche.
+
+179
+00:14:01,718 --> 00:14:04,220
+Los bikinis no son obligatorios.
+
+180
+00:14:04,221 --> 00:14:07,389
+Puedes utilizar uno completo
+si te hace sentir más cómoda.
+
+181
+00:14:07,390 --> 00:14:09,643
+¿Es el momento apropiado para una foto?
+
+182
+00:14:10,143 --> 00:14:11,353
+Sonríe.
+
+183
+00:14:16,900 --> 00:14:20,820
+Ahí está. La ladrona.
+
+184
+00:14:21,321 --> 00:14:22,489
+¿Disculpe?
+
+185
+00:14:23,782 --> 00:14:27,493
+Interrogué a docenas de químicos
+en cada departamento,
+
+186
+00:14:27,494 --> 00:14:29,578
+incluyendo a los de este laboratorio,
+
+187
+00:14:29,579 --> 00:14:33,583
+que dicen que usted, señorita Zott,
+tiene un historial por causar problemas.
+
+188
+00:14:34,084 --> 00:14:35,251
+Y quizás más importante,
+
+189
+00:14:35,252 --> 00:14:37,586
+por tener una actitud arrogante
+y mucho orgullo.
+
+190
+00:14:37,587 --> 00:14:38,921
+¿Ya se escuchó al hablar?
+
+191
+00:14:38,922 --> 00:14:40,757
+¿Así que no lo niega?
+
+192
+00:14:41,633 --> 00:14:43,467
+¿Qué haría una secretaria con la ribosa
+
+193
+00:14:43,468 --> 00:14:45,136
+además de venderla ilegalmente?
+
+194
+00:14:45,720 --> 00:14:49,849
+- Soy química.
+- Y también mentirosa.
+
+195
+00:14:50,892 --> 00:14:54,061
+¡Sí, porque hay una alta demanda
+en la venta ilegal de monosacáridos!
+
+196
+00:14:54,062 --> 00:14:57,607
+¡Esto es muy decepcionante! Muy...
+Estoy decepcionado.
+
+197
+00:14:59,317 --> 00:15:01,277
+Uno: anoche abrieron mi laboratorio,
+
+198
+00:15:01,278 --> 00:15:05,114
+así que quiero que conserjería
+coloque cerraduras nuevas en la puerta.
+
+199
+00:15:05,115 --> 00:15:08,118
+Dos:
+calculé el costo de la ribosa que falta.
+
+200
+00:15:08,827 --> 00:15:11,287
+Quiero aclarar
+que no saldrá de mi presupuesto.
+
+201
+00:15:11,288 --> 00:15:13,497
+Tres: quiero que esterilicen mis pisos.
+
+202
+00:15:13,498 --> 00:15:16,208
+Al menos una persona entró
+sin mi autorización.
+
+203
+00:15:16,209 --> 00:15:19,795
+No puedo arriesgarme por mis alergias
+con ningún contaminante. ¿Entiende?
+
+204
+00:15:19,796 --> 00:15:21,255
+Me encargaré de eso, Dr. Evans.
+
+205
+00:15:21,256 --> 00:15:24,216
+Y último, quiero que la secretaria
+se haga responsable.
+
+206
+00:15:24,217 --> 00:15:25,510
+Haré que la despidan.
+
+207
+00:15:26,094 --> 00:15:28,846
+Una amonestación será suficiente.
+
+208
+00:15:28,847 --> 00:15:32,266
+La verdad me sorprendió
+que fuera una de nuestras secretarias.
+
+209
+00:15:32,267 --> 00:15:34,268
+¿Fue en el laboratorio de aminoácidos?
+
+210
+00:15:34,269 --> 00:15:35,686
+Entonces fue Mary Ann Rogers.
+
+211
+00:15:35,687 --> 00:15:36,770
+No.
+
+212
+00:15:36,771 --> 00:15:38,440
+Se llama Elizabeth Zott.
+
+213
+00:15:39,733 --> 00:15:41,651
+Ella no es secretaria. Es técnica.
+
+214
+00:15:42,736 --> 00:15:44,862
+Debió pensarlo mejor. Tiene una maestría.
+
+215
+00:15:44,863 --> 00:15:47,490
+- ¿Maestría? ¿En qué?
+- Química.
+
+216
+00:15:50,327 --> 00:15:52,745
+¿Este año se unirá
+al concurso de Señorita Hastings?
+
+217
+00:15:52,746 --> 00:15:55,624
+Verlo ahí tendría un impacto positivo
+en la moral de la empresa.
+
+218
+00:16:00,879 --> 00:16:05,634
+{\an8}ELIZABETH ZOTT
+"SEÑORITA AMINOÁCIDOS"
+
+219
+00:16:18,230 --> 00:16:21,274
+SEÑORITA HASTINGS
+EL CONCURSO ANUAL DE LA MEJOR CHICA
+
+220
+00:16:30,575 --> 00:16:33,869
+¿Evans? No esperaba verte aquí.
+
+221
+00:16:33,870 --> 00:16:35,913
+- Claro.
+- Es como ver el cometa Halley.
+
+222
+00:16:35,914 --> 00:16:37,873
+Ven por un trago conmigo y los chicos.
+
+223
+00:16:37,874 --> 00:16:39,167
+O nadie me creerá.
+
+224
+00:16:39,793 --> 00:16:43,505
+- ¿Qué veneno te gusta más?
+- El cianuro o la aflatoxina.
+
+225
+00:16:45,006 --> 00:16:46,298
+Eres muy divertido.
+
+226
+00:16:46,299 --> 00:16:48,175
+Muchachos, saluden a este chico.
+
+227
+00:16:48,176 --> 00:16:50,511
+- El hombre, el mito, la leyenda.
+- Anthony Powers.
+
+228
+00:16:50,512 --> 00:16:52,722
+El mismo Sr. Remsen.
+
+229
+00:16:53,306 --> 00:16:55,016
+¿En qué trabajas ahora?
+
+230
+00:16:55,684 --> 00:16:58,852
+Elizabeth. Hola. Llegaste.
+
+231
+00:16:58,853 --> 00:17:02,815
+Sígueme. Vamos con las demás concursantes.
+
+232
+00:17:02,816 --> 00:17:04,233
+- Te ves increíble.
+- Gracias.
+
+233
+00:17:04,234 --> 00:17:07,026
+Me tardé una eternidad para arreglarme.
+
+234
+00:17:07,027 --> 00:17:09,030
+- Chicas, Elizabeth ya llegó.
+- Hola.
+
+235
+00:17:10,323 --> 00:17:13,659
+Volveré enseguida.
+Ya casi se acaban las albóndigas suecas.
+
+236
+00:17:13,660 --> 00:17:14,785
+Son todo un éxito.
+
+237
+00:17:16,496 --> 00:17:17,871
+Fran hizo un muy buen trabajo.
+
+238
+00:17:17,872 --> 00:17:19,165
+Cierto.
+
+239
+00:17:19,958 --> 00:17:22,043
+Me encanta tu aroma. ¿Qué usas?
+
+240
+00:17:22,752 --> 00:17:25,795
+Casis con tonos florales de rosas.
+
+241
+00:17:25,796 --> 00:17:28,507
+Soy una chica clásica. Chanel N.o 5.
+
+242
+00:17:29,259 --> 00:17:30,677
+Elizabeth, ¿qué perfume usas?
+
+243
+00:17:31,553 --> 00:17:35,556
+Ninguno. En el laboratorio,
+el olfato te alerta de grandes peligros.
+
+244
+00:17:35,557 --> 00:17:38,434
+Ya tengo una desventaja
+por un accidente con ácido clorhídrico
+
+245
+00:17:38,435 --> 00:17:39,727
+que tuve cuando estudiaba.
+
+246
+00:17:39,728 --> 00:17:41,812
+Quemé la mayoría
+de los cilios de mis fosas.
+
+247
+00:17:41,813 --> 00:17:44,107
+Por suerte, se regeneraron con el tiempo.
+
+248
+00:17:44,691 --> 00:17:46,276
+Así que no correré otro riesgo.
+
+249
+00:17:50,780 --> 00:17:52,198
+Calvin Evans está aquí.
+
+250
+00:17:52,699 --> 00:17:54,075
+Te gusta, ¿no es así?
+
+251
+00:17:54,659 --> 00:17:58,038
+Es inteligente, adinerado y famoso.
+¿Qué más podría pedir?
+
+252
+00:18:00,165 --> 00:18:01,166
+Intenta hablarle.
+
+253
+00:18:02,375 --> 00:18:06,046
+Dos más de estos
+y le pediré que vote por mí.
+
+254
+00:18:08,340 --> 00:18:09,341
+Disculpen.
+
+255
+00:18:12,802 --> 00:18:14,221
+Me quedaré aquí contigo.
+
+256
+00:18:15,639 --> 00:18:16,640
+De acuerdo.
+
+257
+00:18:20,560 --> 00:18:22,729
+No deberías dejar
+que los otros te molesten.
+
+258
+00:18:25,523 --> 00:18:26,942
+Solo se divierten.
+
+259
+00:18:28,151 --> 00:18:29,236
+Como un primate macho.
+
+260
+00:18:29,736 --> 00:18:32,239
+Por favor, siéntense.
+
+261
+00:18:33,406 --> 00:18:35,825
+Concursantes, vayan a los bastidores.
+
+262
+00:18:36,368 --> 00:18:37,369
+Gracias.
+
+263
+00:18:37,911 --> 00:18:40,621
+Bienvenidos, soy Fran Frask...
+
+264
+00:18:40,622 --> 00:18:44,000
+- Señorita Zott, he querido...
+- ...jefa interina del personal.
+
+265
+00:18:45,794 --> 00:18:48,462
+No podría estar más emocionada
+de darles la bienvenida
+
+266
+00:18:48,463 --> 00:18:52,758
+al octavo concurso anual
+Señorita Hastings,
+
+267
+00:18:52,759 --> 00:18:55,761
+donde una mujer afortunada
+se llevará a casa la corona
+
+268
+00:18:55,762 --> 00:18:58,640
+que usó la ganadora del año pasado,
+Colleen Murphy.
+
+269
+00:18:59,808 --> 00:19:04,938
+Sí, se ve muy bien.
+Y un premio de veinticinco dólares.
+
+270
+00:19:05,438 --> 00:19:06,439
+Gracias, Colleen.
+
+271
+00:19:07,440 --> 00:19:09,733
+También me uniré al concurso de este año,
+
+272
+00:19:09,734 --> 00:19:11,653
+pero no se apresuren por votar por mí,
+
+273
+00:19:12,404 --> 00:19:14,573
+a menos que quieran
+que aprueben sus vacaciones.
+
+274
+00:19:15,448 --> 00:19:16,615
+Es una broma.
+
+275
+00:19:16,616 --> 00:19:20,661
+Y sin nada más que agregar,
+les presento al maestro de ceremonias,
+
+276
+00:19:20,662 --> 00:19:22,330
+el Dr. Richard Price.
+
+277
+00:19:26,626 --> 00:19:29,086
+Gracias, señorita Frask.
+
+278
+00:19:29,087 --> 00:19:32,256
+Maravilloso. Qué noche.
+Hay bastantes asistentes esta noche.
+
+279
+00:19:32,257 --> 00:19:33,632
+Bien. Esperen.
+
+280
+00:19:33,633 --> 00:19:37,887
+Antes de comenzar,
+haré una pregunta de parte de gerencia.
+
+281
+00:19:37,888 --> 00:19:40,765
+¿De casualidad alguien perdió un electrón?
+
+282
+00:19:41,600 --> 00:19:43,310
+No se preocupe. Hay que ser positivos.
+
+283
+00:19:44,311 --> 00:19:45,311
+¿Positivo?
+
+284
+00:19:45,312 --> 00:19:47,354
+- ¿Entendieron?
+- Se volverá positivo.
+
+285
+00:19:47,355 --> 00:19:51,191
+Bien. Amigos, comencemos con el concurso.
+
+286
+00:19:51,192 --> 00:19:55,487
+Recuerden que estas señoritas
+trabajaron bastante duro.
+
+287
+00:19:55,488 --> 00:20:00,952
+{\an8}Así que, por favor,
+seamos como un protón y seamos positivos.
+
+288
+00:20:03,914 --> 00:20:08,042
+De acuerdo, damas y caballeros,
+el momento que todos estábamos esperando.
+
+289
+00:20:08,043 --> 00:20:14,506
+Les presento a las participantes
+de Señorita Hastings 1951.
+
+290
+00:20:14,507 --> 00:20:17,801
+Aquí están. Fantástico.
+
+291
+00:20:17,802 --> 00:20:21,014
+¿No son encantadoras? Miren eso.
+
+292
+00:20:26,853 --> 00:20:32,234
+Señorita Sintética, ¿qué postre
+le prepararía a su futuro esposo?
+
+293
+00:20:33,652 --> 00:20:37,988
+{\an8}Empezaría con dos bolas
+de helado de vainilla
+
+294
+00:20:37,989 --> 00:20:41,451
+{\an8}y las cubriría por completo con chocolate.
+
+295
+00:20:42,160 --> 00:20:45,205
+{\an8}Tendrán que votar por mí si quieren saber
+cómo pongo la crema batida.
+
+296
+00:20:46,957 --> 00:20:48,082
+{\an8}Bien.
+
+297
+00:20:48,083 --> 00:20:52,379
+{\an8}Señorita Zott, ¿con qué lugar ha soñado
+para tener una luna de miel?
+
+298
+00:20:52,963 --> 00:20:54,381
+{\an8}No planeo casarme.
+
+299
+00:20:55,799 --> 00:20:57,675
+{\an8}Claro, sí, pero ¿si lo hiciera?
+
+300
+00:20:57,676 --> 00:20:58,969
+{\an8}No lo haré.
+
+301
+00:20:59,636 --> 00:21:03,348
+Bueno, la señorita Zott, amigos.
+La señorita Zott.
+
+302
+00:21:06,977 --> 00:21:09,020
+No puedo dejar de pensar en ti.
+
+303
+00:21:16,278 --> 00:21:18,237
+- Damas y caballeros. Ahora...
+- Cariño, hola.
+
+304
+00:21:18,238 --> 00:21:19,655
+- ...para animarnos...
+- Viniste.
+
+305
+00:21:19,656 --> 00:21:21,865
+- ...con una porra...,
+- A Carol le bajó la fiebre,
+
+306
+00:21:21,866 --> 00:21:24,869
+- así que pensé unirme para divertirme.
+- ...la señorita Fran Frask.
+
+307
+00:21:25,287 --> 00:21:32,252
+<i>Diez mil hombres de Harvard
+Quieren ganar el día de hoy...</i>
+
+308
+00:21:33,169 --> 00:21:36,214
+Zott,
+un poco de sensualidad no le haría daño.
+
+309
+00:21:36,882 --> 00:21:39,551
+Avergüenza al equipo de aminoácidos.
+
+310
+00:21:40,260 --> 00:21:41,344
+Mire a Jenny.
+
+311
+00:21:41,928 --> 00:21:43,178
+Es un buen atuendo.
+
+312
+00:21:43,179 --> 00:21:47,517
+Gracias. Mi laboratorio me pagó 10 dólares
+por mostrar algo de piel en mi talento.
+
+313
+00:21:48,518 --> 00:21:49,518
+Es brillante.
+
+314
+00:21:49,519 --> 00:21:54,441
+<i>...de Harvard ganaron hoy</i>
+
+315
+00:21:56,109 --> 00:21:57,776
+¿Qué les pareció?
+
+316
+00:21:57,777 --> 00:21:59,486
+Fran Frask, damas y caballeros.
+
+317
+00:21:59,487 --> 00:22:02,448
+Gracias, señorita Frask.
+Eso estuvo maravilloso, Dios mío.
+
+318
+00:22:02,449 --> 00:22:04,283
+- El hidrógeno...
+- Nancy Donatti.
+
+319
+00:22:04,284 --> 00:22:06,160
+...y el carbono tuvieron una cita
+
+320
+00:22:06,161 --> 00:22:07,578
+y les fue bastante bien.
+
+321
+00:22:07,579 --> 00:22:09,623
+- Se enlazaron.
+- Escuché bastante de usted.
+
+322
+00:22:10,582 --> 00:22:14,044
+Señora Donatti,
+¿su perfume contiene benzaldehídos?
+
+323
+00:22:14,836 --> 00:22:16,171
+¿Qué? No sé.
+
+324
+00:22:16,880 --> 00:22:18,047
+Es de París.
+
+325
+00:22:18,048 --> 00:22:20,716
+Dios. Mis alergias.
+
+326
+00:22:20,717 --> 00:22:23,762
+...el talento de Elizabeth Zott,
+¡la señorita Aminoácidos!
+
+327
+00:22:30,435 --> 00:22:31,728
+Dios mío.
+
+328
+00:22:34,314 --> 00:22:35,315
+¿Dr. Evans?
+
+329
+00:22:36,107 --> 00:22:39,485
+No puede ser. Debo ir a casa.
+
+330
+00:22:39,486 --> 00:22:41,403
+Correcto, pero no maneje en ese estado.
+
+331
+00:22:41,404 --> 00:22:45,450
+No conduzco.
+Está a 11 kilómetros. Caminaré.
+
+332
+00:22:46,284 --> 00:22:47,618
+De acuerdo. Lo llevaré.
+
+333
+00:22:47,619 --> 00:22:51,373
+- Pero me odia.
+- Por el amor de Dios.
+
+334
+00:23:05,053 --> 00:23:07,764
+Está bien.
+
+335
+00:23:08,348 --> 00:23:09,765
+Lo siento. Lo siento mucho.
+
+336
+00:23:09,766 --> 00:23:11,392
+Por favor, deje de disculparse.
+
+337
+00:23:11,393 --> 00:23:13,727
+No lo puede evitar. La glotis se cierra.
+
+338
+00:23:13,728 --> 00:23:16,730
+Los músculos abdominales se contraen,
+lo que aumenta la presión.
+
+339
+00:23:16,731 --> 00:23:18,149
+El píloro se cierra.
+
+340
+00:23:19,109 --> 00:23:20,818
+- Saldrá por arriba.
+- No es por eso.
+
+341
+00:23:20,819 --> 00:23:22,779
+Siento haberla llamado secretaria.
+
+342
+00:23:23,572 --> 00:23:25,532
+No tiene nada de malo ser secretaria.
+
+343
+00:23:26,324 --> 00:23:29,243
+Claro que no, pero asumirlo
+
+344
+00:23:29,244 --> 00:23:34,456
+estuvo mal y bufonesco. Además... Dios mío.
+
+345
+00:23:34,457 --> 00:23:36,585
+Entremos.
+
+346
+00:23:38,253 --> 00:23:39,546
+Dios mío.
+
+347
+00:23:53,143 --> 00:23:54,603
+No tiene nada en su alacena.
+
+348
+00:23:55,395 --> 00:23:57,522
+Sí, a veces olvido comer.
+
+349
+00:24:00,358 --> 00:24:01,358
+Tiene un tenedor.
+
+350
+00:24:01,359 --> 00:24:03,153
+No recibo visitas.
+
+351
+00:24:07,032 --> 00:24:09,074
+El milagro de los milagros, una tetera.
+
+352
+00:24:09,075 --> 00:24:12,202
+Solo quiero disculparme otra vez
+por lo del otro día.
+
+353
+00:24:12,203 --> 00:24:13,871
+- Yo...
+- No puedo aceptar su disculpa.
+
+354
+00:24:13,872 --> 00:24:16,832
+Me gustaría hacerlo,
+pero ni sabe por qué se disculpa.
+
+355
+00:24:16,833 --> 00:24:18,835
+Así que todo el ejercicio
+no tiene sentido.
+
+356
+00:24:19,753 --> 00:24:21,462
+Sí, tomé prestado un poco de su ribosa.
+
+357
+00:24:21,463 --> 00:24:24,256
+De un suministro bastante abundante,
+si me permite agregar,
+
+358
+00:24:24,257 --> 00:24:26,342
+pero tiene todos los recursos
+
+359
+00:24:26,343 --> 00:24:28,929
+y el gran interés
+de toda la comunidad científica
+
+360
+00:24:29,429 --> 00:24:30,597
+y lo da por sentado.
+
+361
+00:24:31,097 --> 00:24:33,682
+Debe ser inteligente,
+basado en la miríada de sus logros,
+
+362
+00:24:33,683 --> 00:24:39,856
+pero va y viene como un hombre paranoico,
+desagradecido y frágil.
+
+363
+00:24:41,274 --> 00:24:46,363
+Así que, para responder
+a su comentario anterior, no lo odio.
+
+364
+00:24:48,031 --> 00:24:49,532
+Solo no me agrada.
+
+365
+00:24:54,037 --> 00:24:55,038
+Gracias.
+
+366
+00:24:59,000 --> 00:25:01,127
+Le traje algo.
+
+367
+00:25:04,631 --> 00:25:07,217
+Es la única razón
+por la que vine a la fiesta esta noche.
+
+368
+00:25:09,386 --> 00:25:10,387
+¿Para traerme ribosa?
+
+369
+00:25:11,388 --> 00:25:12,973
+Tiene una maestría en química.
+
+370
+00:25:14,391 --> 00:25:15,392
+Así es.
+
+371
+00:25:16,268 --> 00:25:18,270
+¿No quiso conseguir un doctorado?
+
+372
+00:25:19,980 --> 00:25:21,856
+Fue una situación complicada.
+
+373
+00:25:24,859 --> 00:25:27,027
+Lamento que no haya terminado
+la competencia.
+
+374
+00:25:27,028 --> 00:25:28,445
+Yo no.
+
+375
+00:25:28,446 --> 00:25:30,197
+¿Y el dinero del premio?
+
+376
+00:25:30,198 --> 00:25:31,366
+Es dinero sucio.
+
+377
+00:25:42,335 --> 00:25:43,628
+¿Puedo preguntarle algo?
+
+378
+00:25:44,963 --> 00:25:46,548
+No prometo responderle.
+
+379
+00:25:47,299 --> 00:25:50,802
+¿Cuál iba a ser su talento
+para el concurso?
+
+380
+00:25:53,263 --> 00:25:56,516
+Iba a hervir un tomate en una olla.
+
+381
+00:25:57,642 --> 00:26:01,104
+Como sabrá, el calor hace
+que las moléculas se exciten.
+
+382
+00:26:02,188 --> 00:26:05,108
+La pulpa del tomate
+se expande sobre la piel.
+
+383
+00:26:06,109 --> 00:26:09,695
+Luego lo coloco en un tazón con agua fría
+por 60 segundos, aproximadamente,
+
+384
+00:26:09,696 --> 00:26:12,490
+y la piel se deslizará fácilmente.
+
+385
+00:26:15,160 --> 00:26:16,161
+Habría ganado.
+
+386
+00:26:20,040 --> 00:26:21,207
+Buenas noches, Dr. Evans.
+
+387
+00:26:32,177 --> 00:26:33,636
+¡Ten cuidado con los autos!
+
+388
+00:26:33,637 --> 00:26:35,180
+¡Dr. Evans!
+
+389
+00:26:38,350 --> 00:26:39,976
+- Buenos días.
+- Buenos días.
+
+390
+00:26:40,435 --> 00:26:42,354
+¿Cuál es tu color favorito?
+Adivina el mío.
+
+391
+00:26:42,812 --> 00:26:45,814
+¿Tu color favorito? Es difícil.
+
+392
+00:26:45,815 --> 00:26:49,027
+Veamos. No sé. ¿El aguamarina?
+
+393
+00:26:49,861 --> 00:26:51,071
+Ese no es un color.
+
+394
+00:26:51,613 --> 00:26:53,364
+Bueno, el color es fenomenológico.
+
+395
+00:26:53,365 --> 00:26:55,866
+Linda, ¿puedes venir a terminar?
+Por favor.
+
+396
+00:26:55,867 --> 00:26:57,201
+Buen día, Harriet.
+
+397
+00:26:57,202 --> 00:26:58,536
+Buen día, amigo.
+
+398
+00:26:59,246 --> 00:27:01,872
+Estas personas no tienen vergüenza.
+Buen día.
+
+399
+00:27:01,873 --> 00:27:04,459
+¿Más parientes perdidos
+en busca de dinero perdido?
+
+400
+00:27:05,126 --> 00:27:07,921
+Nunca debí aceptar estar
+en la portada de <i>Scientific American</i>.
+
+401
+00:27:08,338 --> 00:27:09,338
+De nuevo,
+
+402
+00:27:09,339 --> 00:27:12,424
+la misma mujer que dice que es mi madre
+cada dos semanas sin falta.
+
+403
+00:27:12,425 --> 00:27:15,929
+Si tu madre viviera, estaría orgullosa
+de que estás en esa portada.
+
+404
+00:27:16,930 --> 00:27:17,931
+¿Qué es todo esto?
+
+405
+00:27:18,473 --> 00:27:21,767
+{\an8}Quieren conectar la autopista 10,
+del centro a Santa Mónica.
+
+406
+00:27:21,768 --> 00:27:23,811
+Arrasar por nuestro patio trasero.
+
+407
+00:27:23,812 --> 00:27:25,104
+Pero la gente vive ahí.
+
+408
+00:27:25,105 --> 00:27:26,898
+La pregunta es: ¿cuál gente?
+
+409
+00:27:28,358 --> 00:27:30,109
+{\an8}Para. Lo estás haciendo mal.
+
+410
+00:27:30,110 --> 00:27:32,862
+{\an8}Linda, corazón, está bien. Déjalo jugar.
+
+411
+00:27:34,531 --> 00:27:37,950
+¿Podrías cuidarlos otra vez el martes?
+Tengo una reunión de comité.
+
+412
+00:27:37,951 --> 00:27:39,953
+- Claro.
+- Gracias.
+
+413
+00:27:45,584 --> 00:27:47,919
+Señorita Zott, ¿puedo hablar con usted?
+
+414
+00:27:51,256 --> 00:27:52,756
+¿Podría dejar la puerta abierta?
+
+415
+00:27:52,757 --> 00:27:56,344
+Su truco en el concurso dejó en ridículo
+a todo el departamento de aminoácidos.
+
+416
+00:27:57,846 --> 00:28:02,183
+Como su supervisor,
+su conducta me hace quedar mal.
+
+417
+00:28:04,895 --> 00:28:08,148
+Así no dirijo mi departamento.
+Espero una mejor actitud.
+
+418
+00:28:09,774 --> 00:28:11,359
+Si pasa otra vez, la despediré.
+
+419
+00:29:04,246 --> 00:29:05,288
+¿Puedo acompañarla?
+
+420
+00:29:06,957 --> 00:29:08,124
+Sí puede.
+
+421
+00:29:12,254 --> 00:29:13,255
+¿Usted lo preparó?
+
+422
+00:29:14,506 --> 00:29:17,341
+¿Le gustaría probarlo?
+Supongo que no ha comido en todo el día.
+
+423
+00:29:17,342 --> 00:29:20,554
+Tengo un paquete de galletas saladas
+en mi escritorio.
+
+424
+00:29:22,472 --> 00:29:23,682
+Debe estar muy estreñido.
+
+425
+00:29:28,853 --> 00:29:29,854
+Gracias.
+
+426
+00:29:34,568 --> 00:29:36,820
+Vaya, eso está...
+
+427
+00:29:37,737 --> 00:29:41,199
+Nunca había... Es perfecto.
+
+428
+00:29:42,576 --> 00:29:44,995
+No es perfecto,
+pero tiene el potencial para serlo.
+
+429
+00:29:45,579 --> 00:29:46,955
+Es mi intento número 78.
+
+430
+00:29:48,331 --> 00:29:49,708
+Me enfoco más en el queso.
+
+431
+00:29:51,418 --> 00:29:52,419
+¿El queso?
+
+432
+00:29:52,878 --> 00:29:56,463
+La grasa láctea sólida del queso se licua
+al llegar a los 33 grados
+
+433
+00:29:56,464 --> 00:29:58,841
+Los enlaces de la caseína
+y las proteínas se rompen,
+
+434
+00:29:58,842 --> 00:30:00,092
+pero la fusión no es suave.
+
+435
+00:30:00,093 --> 00:30:01,176
+¿No?
+
+436
+00:30:01,177 --> 00:30:04,430
+No. Por eso he experimentado
+con citrato de sodio.
+
+437
+00:30:04,431 --> 00:30:06,307
+El sodio sustituye parte del calcio
+
+438
+00:30:06,308 --> 00:30:09,351
+que causa que las proteínas se adhieran,
+así que al calentarse...
+
+439
+00:30:09,352 --> 00:30:12,022
+Las proteínas se separan
+y actúan como emulsionantes,
+
+440
+00:30:12,522 --> 00:30:15,567
+lo que refuerza la emulsión
+al mantener el agua y la grasa juntas.
+
+441
+00:30:16,026 --> 00:30:17,026
+Precisamente.
+
+442
+00:30:17,027 --> 00:30:22,197
+¿Y necesitaba mi ribosa
+para perfeccionar su receta de lasaña?
+
+443
+00:30:22,198 --> 00:30:25,619
+No, la lasaña es mi cena.
+La necesitaba para mi investigación.
+
+444
+00:30:29,039 --> 00:30:31,582
+El 99% del cuerpo humano
+está hecho de carbono,
+
+445
+00:30:31,583 --> 00:30:35,085
+hidrógeno, nitrógeno, oxígeno,
+calcio y fósforo y algunos iones.
+
+446
+00:30:35,086 --> 00:30:37,880
+Pero ¿cómo llegamos
+a este nivel de complejidad en la Tierra?
+
+447
+00:30:37,881 --> 00:30:40,758
+Los dos sentados en esta mesa
+mientras hablamos
+
+448
+00:30:40,759 --> 00:30:44,512
+y pasamos de una sopa de átomos
+y moléculas pequeñas a este momento...
+
+449
+00:30:46,056 --> 00:30:47,848
+Es lo que intento descubrir.
+
+450
+00:30:47,849 --> 00:30:49,600
+Abiogénesis.
+
+451
+00:30:49,601 --> 00:30:51,269
+¿Le interesa?
+
+452
+00:30:51,937 --> 00:30:53,021
+Me mantiene despierto.
+
+453
+00:30:56,650 --> 00:30:57,651
+A mí también.
+
+454
+00:31:08,328 --> 00:31:10,664
+Leí tus trabajos,
+pero ¿en qué trabajas ahora?
+
+455
+00:31:12,874 --> 00:31:14,792
+Hago una investigación exploratoria
+
+456
+00:31:14,793 --> 00:31:18,421
+en la identificación, el aislamiento
+y la clasificación de enzimas naturales.
+
+457
+00:31:18,922 --> 00:31:20,589
+Es... Huele muy bien.
+
+458
+00:31:20,590 --> 00:31:22,342
+¿Es puré de papa?
+
+459
+00:31:24,261 --> 00:31:25,262
+Con permiso.
+
+460
+00:31:27,681 --> 00:31:28,682
+Por Dios.
+
+461
+00:31:42,237 --> 00:31:44,488
+No. Eso no tiene sentido.
+
+462
+00:31:44,489 --> 00:31:46,323
+No explica cómo cerraste el anillo.
+
+463
+00:31:46,324 --> 00:31:48,909
+Claro, pero cuando se aplica
+un ácido polifosfórico,
+
+464
+00:31:48,910 --> 00:31:52,789
+se crean ésteres de fosfato
+con un alto contenido de monoésteres.
+
+465
+00:31:57,210 --> 00:31:58,378
+Es un muy buen punto.
+
+466
+00:32:08,305 --> 00:32:10,472
+Se parece un poco al huevo y a la gallina,
+
+467
+00:32:10,473 --> 00:32:12,099
+pero recuerda la navaja de Ockham.
+
+468
+00:32:12,100 --> 00:32:16,187
+¿La naturaleza tomaría un sistema complejo
+para crear cosas simples?
+
+469
+00:32:17,022 --> 00:32:18,439
+¿La hipótesis del mundo del ARN?
+
+470
+00:32:18,440 --> 00:32:21,191
+Señorita Zott,
+necesito más de su café especial
+
+471
+00:32:21,192 --> 00:32:22,443
+para sobrevivir la tarde.
+
+472
+00:32:22,444 --> 00:32:23,777
+Claro.
+
+473
+00:32:23,778 --> 00:32:26,113
+<i>Mi investigación estaría adelantada</i>
+
+474
+00:32:26,114 --> 00:32:28,991
+si no tuviera que darles un buen café
+a químicos mediocres.
+
+475
+00:32:28,992 --> 00:32:31,535
+Pronto harás
+el mejor descubrimiento científico.
+
+476
+00:32:31,536 --> 00:32:33,872
+- Debes hablar con Donatti.
+- Lo hice y dijo que no.
+
+477
+00:32:34,998 --> 00:32:36,374
+No tiene sentido. ¿Por qué?
+
+478
+00:32:37,083 --> 00:32:38,293
+Discriminación por sexo.
+
+479
+00:32:39,502 --> 00:32:40,586
+¿Qué?
+
+480
+00:32:40,587 --> 00:32:43,380
+También por política,
+favoritismo e injusticia en general,
+
+481
+00:32:43,381 --> 00:32:45,008
+pero sí, por discriminación.
+
+482
+00:32:45,800 --> 00:32:46,800
+No entiendo.
+
+483
+00:32:46,801 --> 00:32:48,719
+¿Por qué discriminarían por algo que no es
+
+484
+00:32:48,720 --> 00:32:51,138
+tan intelectualmente determinante
+como el sexo?
+
+485
+00:32:51,139 --> 00:32:55,268
+Calvin,
+¿a cuántas científicas puedes nombrar?
+
+486
+00:32:56,228 --> 00:32:57,229
+Madame Curie.
+
+487
+00:32:58,563 --> 00:33:01,733
+Exactamente. ¿Crees que es casualidad?
+
+488
+00:33:03,860 --> 00:33:07,238
+No lo sé.
+No lo había considerado hasta ahora.
+
+489
+00:33:07,239 --> 00:33:11,326
+Obviamente no
+porque aprecian por completo tu potencial.
+
+490
+00:33:12,077 --> 00:33:13,078
+Aquí me quedo.
+
+491
+00:33:15,622 --> 00:33:17,040
+Alcen la mano si quieren café.
+
+492
+00:33:24,714 --> 00:33:26,216
+Bien. Lo estuve pensando.
+
+493
+00:33:26,967 --> 00:33:30,135
+Mi investigación se beneficiaría
+de tu trabajo de síntesis molecular.
+
+494
+00:33:30,136 --> 00:33:32,930
+Puedo hablar con Donatti
+para que trabajes para mí
+
+495
+00:33:32,931 --> 00:33:35,182
+y así podrás enfocarte
+en tu investigación.
+
+496
+00:33:35,183 --> 00:33:38,060
+Donatti jamás me contrataría como química.
+Solo como técnica.
+
+497
+00:33:38,061 --> 00:33:40,563
+Técnicamente,
+pero sería un estudio independiente.
+
+498
+00:33:40,564 --> 00:33:41,730
+Química de verdad.
+
+499
+00:33:41,731 --> 00:33:43,232
+Tendrías las riendas sueltas.
+
+500
+00:33:43,233 --> 00:33:45,276
+Pero seré una técnica
+para todos los demás.
+
+501
+00:33:45,277 --> 00:33:48,737
+Obviamente. En un mundo perfecto,
+no necesitarías la ayuda de nadie,
+
+502
+00:33:48,738 --> 00:33:50,906
+pero como lo mencionaste con claridad,
+
+503
+00:33:50,907 --> 00:33:53,242
+trabajas en un sistema
+ampliamente injusto.
+
+504
+00:33:53,243 --> 00:33:55,536
+Para que puedas operar
+como si no lo fuera, hay que...
+
+505
+00:33:55,537 --> 00:33:58,038
+¿Puedes explicarme
+cómo eso tiene algún sentido?
+
+506
+00:33:58,039 --> 00:34:00,374
+Te trataré como a un igual.
+
+507
+00:34:00,375 --> 00:34:02,544
+Eres de las más inteligentes
+del laboratorio.
+
+508
+00:34:03,003 --> 00:34:06,005
+Calvin,
+no importa si trabajo contigo o para ti.
+
+509
+00:34:06,006 --> 00:34:09,216
+La gente verá el trabajo como tuyo.
+Nunca me verán como científica.
+
+510
+00:34:09,217 --> 00:34:11,510
+Lo harán cuando lo publiques
+como la científica principal.
+
+511
+00:34:16,432 --> 00:34:19,436
+¿Estás en pijama?
+
+512
+00:34:20,103 --> 00:34:24,441
+No. Es la ropa que uso para correr.
+Corro hacia y desde el trabajo.
+
+513
+00:34:25,400 --> 00:34:27,109
+¿Cómo que corres?
+
+514
+00:34:27,110 --> 00:34:29,862
+Corro para ejercitarme.
+
+515
+00:34:29,863 --> 00:34:32,073
+Sé que algunos lo ven extraño,
+pero me relaja.
+
+516
+00:34:35,492 --> 00:34:36,745
+Piensa en mi oferta.
+
+517
+00:34:44,044 --> 00:34:45,086
+¿Calvin?
+
+518
+00:34:47,005 --> 00:34:48,006
+Sí.
+
+519
+00:34:49,840 --> 00:34:50,842
+¿Sí?
+
+520
+00:34:51,885 --> 00:34:53,053
+Sí.
+
+521
+00:34:55,305 --> 00:34:58,224
+Me baño en mi laboratorio,
+
+522
+00:34:58,225 --> 00:34:59,976
+así que toca antes de entrar.
+
+523
+00:35:01,811 --> 00:35:03,355
+Te aseguro que tocaré.
+
+524
+00:35:12,197 --> 00:35:15,866
+Hay un protocolo, señorita Zott.
+Cuando no lo sigues, recae sobre mí.
+
+525
+00:35:15,867 --> 00:35:18,077
+¿Tienes idea del problema
+en el que me metí
+
+526
+00:35:18,078 --> 00:35:19,996
+cuando te fuiste en medio concurso?
+
+527
+00:35:20,497 --> 00:35:22,122
+Comprendo, señorita Frask,
+
+528
+00:35:22,123 --> 00:35:24,292
+pero en serio
+quiero enfocarme en mi petición.
+
+529
+00:35:25,460 --> 00:35:26,710
+Es una mala idea.
+
+530
+00:35:26,711 --> 00:35:29,588
+Hay muchos chicos para elegir
+si necesitas un técnico.
+
+531
+00:35:29,589 --> 00:35:32,591
+Vaya, esto es discriminación por sexo.
+
+532
+00:35:32,592 --> 00:35:34,051
+Ni siquiera sé qué significa.
+
+533
+00:35:34,052 --> 00:35:36,637
+Señorita Frask,
+no tomé esta decisión a la ligera.
+
+534
+00:35:36,638 --> 00:35:38,347
+Sus intenciones son profesionales.
+
+535
+00:35:38,348 --> 00:35:41,183
+Querida,
+no existen las relaciones profesionales
+
+536
+00:35:41,184 --> 00:35:42,393
+entre hombres y mujeres.
+
+537
+00:35:42,394 --> 00:35:43,978
+No pensé que fueras tan tonta.
+
+538
+00:35:43,979 --> 00:35:47,231
+Se muere por estar contigo.
+No creo que tu currículum sea la razón.
+
+539
+00:35:47,232 --> 00:35:50,651
+¿Cuántas químicas puedes nombrar
+además de Madame Curie?
+
+540
+00:35:50,652 --> 00:35:53,404
+- No está cualificada.
+- No vine a pedir permiso.
+
+541
+00:35:53,405 --> 00:35:56,449
+Vine para asegurarme
+de que los papeles sean correctos.
+
+542
+00:35:57,117 --> 00:36:01,704
+Evans,
+vienes como si fueras el dueño y está bien
+
+543
+00:36:01,705 --> 00:36:04,124
+siempre y cuando la beca Remsen siga aquí.
+
+544
+00:36:04,624 --> 00:36:06,918
+Pero te irás tan pronto
+como el dinero se acabe.
+
+545
+00:36:07,627 --> 00:36:10,630
+Somos compañeros. Ni más ni menos.
+
+546
+00:36:12,132 --> 00:36:13,549
+No, querida. Eres su técnica.
+
+547
+00:36:13,550 --> 00:36:15,801
+Ya vi esto antes. Los hombres son hombres.
+
+548
+00:36:15,802 --> 00:36:18,471
+Cambiará de decisión. ¿Y luego qué pasará?
+
+549
+00:36:29,399 --> 00:36:31,150
+¿Todo bien con la señorita Frask?
+
+550
+00:36:31,151 --> 00:36:33,277
+Lo arreglé. ¿Y con Donatti?
+
+551
+00:36:33,278 --> 00:36:34,779
+Fue fácil.
+
+552
+00:36:36,406 --> 00:36:37,657
+Prefiero la puerta abierta.
+
+553
+00:36:39,910 --> 00:36:40,911
+Sí, claro.
+
+554
+00:36:44,748 --> 00:36:48,334
+Organicé nuestro equipo
+de forma que una persona cuerda lo aprecie
+
+555
+00:36:48,335 --> 00:36:50,170
+y barrí las migajas de las galletas.
+
+556
+00:36:50,629 --> 00:36:51,670
+No porque soy una mujer,
+
+557
+00:36:51,671 --> 00:36:55,091
+sino porque no se me ocurre
+una peor sustancia en un laboratorio.
+
+558
+00:36:56,676 --> 00:36:58,345
+Tú te encargarás de la ropa interior.
+
+559
+00:37:17,739 --> 00:37:19,532
+¿Moviste las probetas?
+
+560
+00:37:20,617 --> 00:37:23,036
+Pensé que el centro de la mesa
+es más equidistante.
+
+561
+00:37:31,962 --> 00:37:34,463
+¿Cómo puedes trabajar
+con la música tan alta?
+
+562
+00:37:34,464 --> 00:37:37,968
+Es la única forma en la que puedo pensar.
+¿También moviste las espátulas?
+
+563
+00:37:44,975 --> 00:37:47,435
+Jamás compartiste espacio con alguien,
+¿verdad?
+
+564
+00:37:49,145 --> 00:37:50,647
+Me gustan las cosas como las dejo.
+
+565
+00:37:58,363 --> 00:38:02,324
+Calvin, no es que no me guste la música.
+
+566
+00:38:02,325 --> 00:38:08,038
+Es que no me gusta esta música.
+Es desordenada.
+
+567
+00:38:08,039 --> 00:38:10,791
+Eso es lo que me gusta. Me ayuda a pensar.
+
+568
+00:38:10,792 --> 00:38:12,626
+Nunca sabes qué pasará después.
+
+569
+00:38:12,627 --> 00:38:15,922
+¿Una trompeta?
+Ahí viene la batería. Es emocionante.
+
+570
+00:38:16,590 --> 00:38:17,591
+Es ruido.
+
+571
+00:38:18,133 --> 00:38:21,636
+O solo creo que apreciaría algo diferente.
+
+572
+00:38:22,596 --> 00:38:25,307
+Previsibilidad, estructura formulada.
+
+573
+00:38:26,600 --> 00:38:30,102
+Disfruto escuchar cómo cambia un acorde,
+cómo se mueve, cómo se junta con otro,
+
+574
+00:38:30,103 --> 00:38:33,732
+como componentes básicos en moléculas.
+
+575
+00:38:38,236 --> 00:38:39,237
+¿Qué?
+
+576
+00:39:09,893 --> 00:39:12,354
+Llegas tarde. Ya empecé la primera prueba.
+
+577
+00:39:13,480 --> 00:39:17,734
+Pensé que podríamos alternar cada día.
+
+578
+00:39:21,947 --> 00:39:23,156
+Un compromiso.
+
+579
+00:39:34,251 --> 00:39:35,627
+¿Qué tenemos aquí?
+
+580
+00:41:28,907 --> 00:41:31,534
+- Residencia Zott.
+- Hola, soy Calvin.
+
+581
+00:41:32,744 --> 00:41:34,412
+Calvin Evans. Tu compañero.
+
+582
+00:41:36,414 --> 00:41:37,624
+Ya casi son las 8:00 p. m.
+
+583
+00:41:38,124 --> 00:41:41,043
+Sí. Es que no he dejado de pensar
+en lo que dijiste
+
+584
+00:41:41,044 --> 00:41:43,837
+<i>sobre la estructura básica
+de las pirimidinas y las purinas.</i>
+
+585
+00:41:43,838 --> 00:41:47,091
+<i>Me llevó a algo que ya había descartado.</i>
+
+586
+00:41:47,092 --> 00:41:48,717
+¿La independencia de la nucleína?
+
+587
+00:41:48,718 --> 00:41:49,803
+<i>Sí.</i>
+
+588
+00:41:50,220 --> 00:41:51,513
+Espera. Iré por mi cuaderno.
+
+589
+00:41:55,600 --> 00:41:58,477
+De hecho, hace rato escribí algo
+sobre la teoría de Miescher
+
+590
+00:41:58,478 --> 00:42:00,272
+sobre el alto contenido de fósforo de...
+
+591
+00:42:03,733 --> 00:42:04,734
+Espera.
+
+592
+00:42:05,318 --> 00:42:06,987
+- <i>Mierda.</i>
+- ¿Elizabeth?
+
+593
+00:42:08,029 --> 00:42:12,658
+Mierda. Tengo que irme.
+
+594
+00:42:12,659 --> 00:42:15,704
+- ¿Qué pasó?
+- Acabo de quemar mi cena.
+
+595
+00:42:16,204 --> 00:42:19,456
+Dios mío. Pensé que era algo serio.
+
+596
+00:42:19,457 --> 00:42:21,709
+Esto es serio. Yo no quemo cosas.
+
+597
+00:42:21,710 --> 00:42:24,169
+¿En serio? ¿Nunca? ¿Jamás quemaste nada?
+
+598
+00:42:24,170 --> 00:42:27,340
+No, no estaba concentrada.
+
+599
+00:42:27,841 --> 00:42:30,510
+A veces los errores pueden ser algo bueno.
+
+600
+00:42:31,094 --> 00:42:33,847
+<i>Nos pueden llevar a lo que no esperábamos.</i>
+
+601
+00:42:35,390 --> 00:42:36,558
+Debo irme. Buenas noches.
+
+602
+00:42:45,275 --> 00:42:46,276
+Bien.
+
+603
+00:43:00,540 --> 00:43:01,541
+Vaya.
+
+604
+00:43:07,339 --> 00:43:08,340
+Eso es.
+
+605
+00:43:19,351 --> 00:43:20,936
+Tuve una epifanía mientras corría.
+
+606
+00:43:22,187 --> 00:43:23,854
+¿Puedes abrir la puerta?
+
+607
+00:43:23,855 --> 00:43:25,105
+- Lo inspiraste.
+- Calvin.
+
+608
+00:43:25,106 --> 00:43:27,191
+- Como dijiste, la navaja de Ockham.
+- Calvin.
+
+609
+00:43:27,192 --> 00:43:30,945
+¿Y si los ácidos nucleicos
+pueden codificar moléculas más complejas?
+
+610
+00:43:30,946 --> 00:43:33,031
+- Como un...
+- Calvin, ¡abre la puerta!
+
+611
+00:43:33,573 --> 00:43:34,574
+Elizabeth.
+
+612
+00:43:37,619 --> 00:43:41,790
+Elizabeth. ¿Todo está bien? ¿Hice algo?
+
+613
+00:43:44,167 --> 00:43:45,168
+Esto fue un error.
+
+614
+00:43:45,877 --> 00:43:47,045
+No entiendo.
+
+615
+00:43:54,010 --> 00:43:57,555
+La reacción de Maillard doró la carne
+antes de meterla al horno.
+
+616
+00:43:57,556 --> 00:43:59,224
+Ahora veamos el resultado.
+
+617
+00:44:08,191 --> 00:44:09,192
+Dios mío.
+
+618
+00:44:16,283 --> 00:44:19,035
+- Walter, ¿vamos a comerciales?
+- No. No sé. No.
+
+619
+00:44:21,746 --> 00:44:23,373
+Ese no es el resultado previsto.
+
+620
+00:44:31,298 --> 00:44:35,468
+En la ciencia, te esfuerzas por controlar
+cada variable de tu experimento.
+
+621
+00:44:36,219 --> 00:44:39,472
+La temperatura del laboratorio,
+el número de contaminantes,
+
+622
+00:44:40,181 --> 00:44:42,767
+la calibración adecuada
+para cada pieza del equipo.
+
+623
+00:44:45,145 --> 00:44:48,148
+<i>A veces no puedes confiar en la fórmula.</i>
+
+624
+00:44:48,982 --> 00:44:51,484
+<i>A veces no puedes controlar cada variable.</i>
+
+625
+00:44:52,819 --> 00:44:53,820
+<i>A veces...</i>
+
+626
+00:44:56,448 --> 00:44:57,449
+<i>Muchas veces...</i>
+
+627
+00:45:00,076 --> 00:45:01,494
+las cosas salen mal.
+
+628
+00:45:05,081 --> 00:45:08,168
+A veces quemarás la lasaña.
+
+629
+00:45:22,140 --> 00:45:23,725
+Serán las sobras de esta noche.
+
+630
+00:45:25,185 --> 00:45:28,271
+Niños, preparen la mesa.
+Sus madres necesitan un descanso.
+
+631
+00:45:31,066 --> 00:45:33,485
+¡LO SENTIMOS! ESTAMOS EXPERIMENTANDO
+DIFICULTADES TÉCNICAS
+
+9999
+00:00:00,010 --> 00:00:00,020
+• Sincronizado y corregido por MarcusL •
+• www.subdivx.com •
+
+
