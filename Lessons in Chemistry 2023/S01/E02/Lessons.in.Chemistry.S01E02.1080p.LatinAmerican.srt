@@ -1,21 +1,21 @@
 1
 00:00:17,769 --> 00:00:20,312
-Señorita Zott, por favor,
-explique cómo es que planea tomar
+Seï¿½orita Zott, por favor,
+explique cï¿½mo es que planea tomar
 
 2
 00:00:20,313 --> 00:00:22,815
-las imágenes de difracción de rayos X
+las imï¿½genes de difracciï¿½n de rayos X
 descritas en su propuesta...
 
 3
 00:00:22,816 --> 00:00:24,108
 UCLA, 1950
-EXAMEN DE CALIFICACIÓN DOCTORAL
+EXAMEN DE CALIFICACIï¿½N DOCTORAL
 
 4
 00:00:24,109 --> 00:00:27,445
-...sin que se seque primero la proteína
+...sin que se seque primero la proteï¿½na
 en una forma mineral cristalina.
 
 5
@@ -25,22 +25,22 @@ y la Dra. Dorothy Crowfoot Hodgkin
 
 6
 00:00:30,824 --> 00:00:32,908
-crearon una técnica que les permite
+crearon una tï¿½cnica que les permite
 
 7
 00:00:32,909 --> 00:00:35,411
 exponer cristales de pepsina
-para la cristalografía de rayos X
+para la cristalografï¿½a de rayos X
 
 8
 00:00:35,412 --> 00:00:38,122
-dentro de la solución de las aguas madres
+dentro de la soluciï¿½n de las aguas madres
 en la que se cristalizaron.
 
 9
 00:00:38,123 --> 00:00:41,458
-En su forma cristalina, las proteínas
-son, en su mayoría, solvente por volumen
+En su forma cristalina, las proteï¿½nas
+son, en su mayorï¿½a, solvente por volumen
 
 10
 00:00:41,459 --> 00:00:44,003
@@ -49,29 +49,29 @@ del que funcionan.
 
 11
 00:00:44,004 --> 00:00:45,754
-Esto me da la oportunidad única
+Esto me da la oportunidad ï¿½nica
 
 12
 00:00:45,755 --> 00:00:48,425
-de ver tanto proteínas grandes
-como ácidos nucleicos.
+de ver tanto proteï¿½nas grandes
+como ï¿½cidos nucleicos.
 
 13
 00:00:53,179 --> 00:00:54,222
-Puedo darles más detalles.
+Puedo darles mï¿½s detalles.
 
 14
 00:01:12,866 --> 00:01:14,783
-Pensé que estarías aquí.
+Pensï¿½ que estarï¿½as aquï¿½.
 Siempre trabajando.
 
 15
 00:01:14,784 --> 00:01:16,911
-Difícilmente. Sigo mirando al reloj.
+Difï¿½cilmente. Sigo mirando al reloj.
 
 16
 00:01:16,912 --> 00:01:18,829
-¿Qué dijeron? Cuéntamelo todo.
+ï¿½Quï¿½ dijeron? Cuï¿½ntamelo todo.
 
 17
 00:01:18,830 --> 00:01:21,999
@@ -80,12 +80,12 @@ pero los dejaste sin aliento.
 
 18
 00:01:22,000 --> 00:01:24,335
-¿En serio? No puedo creerlo.
+ï¿½En serio? No puedo creerlo.
 
 19
 00:01:24,336 --> 00:01:26,962
-- Como dije, aún no es oficial.
-- ¿Quién los retiene?
+- Como dije, aï¿½n no es oficial.
+- ï¿½Quiï¿½n los retiene?
 
 20
 00:01:26,963 --> 00:01:28,380
@@ -93,17 +93,17 @@ Meyers. Es de la vieja escuela.
 
 21
 00:01:28,381 --> 00:01:31,050
-¿Viste su cara cuando lo bloqueé
-con la cristalografía de rayos X?
+ï¿½Viste su cara cuando lo bloqueï¿½
+con la cristalografï¿½a de rayos X?
 
 22
 00:01:31,051 --> 00:01:32,718
-Pensó que me había vencido.
+Pensï¿½ que me habï¿½a vencido.
 
 23
 00:01:32,719 --> 00:01:35,039
-Uno de los momentos de más orgullo
-de mi carrera académica.
+Uno de los momentos de mï¿½s orgullo
+de mi carrera acadï¿½mica.
 
 24
 00:01:38,141 --> 00:01:40,060
@@ -111,7 +111,7 @@ Dr. Bates, yo...
 
 25
 00:01:40,685 --> 00:01:43,313
-Dios, no. Está bien. Somos los únicos.
+Dios, no. Estï¿½ bien. Somos los ï¿½nicos.
 
 26
 00:01:46,024 --> 00:01:47,025
@@ -133,7 +133,7 @@ Sabemos que eres cualquier cosa menos eso.
 
 30
 00:01:57,953 --> 00:01:59,828
-- Aquí no. Tengo que...
+- Aquï¿½ no. Tengo que...
 - Espera. Oye, solo...
 
 31
@@ -143,19 +143,19 @@ Espera. Detente.
 32
 00:02:03,208 --> 00:02:05,251
 - Quieta. No te muevas.
-- ¡Detente!
+- ï¿½Detente!
 
 33
 00:02:05,252 --> 00:02:06,628
-¡Por favor!
+ï¿½Por favor!
 
 34
 00:02:13,260 --> 00:02:15,971
-¡Carajo! ¡Dios santo!
+ï¿½Carajo! ï¿½Dios santo!
 
 35
 00:02:17,055 --> 00:02:19,099
-¡Maldita perra!
+ï¿½Maldita perra!
 
 36
 00:02:20,517 --> 00:02:22,310
@@ -163,13 +163,13 @@ Es una chica bastante afortunada.
 
 37
 00:02:23,436 --> 00:02:28,107
-El Dr. Bates accedió a no presentar cargos
-por agresión agravada contra usted.
+El Dr. Bates accediï¿½ a no presentar cargos
+por agresiï¿½n agravada contra usted.
 
 38
 00:02:28,108 --> 00:02:32,611
 Sin embargo, el departamento
-pidió una declaración de arrepentimiento
+pidiï¿½ una declaraciï¿½n de arrepentimiento
 
 39
 00:02:32,612 --> 00:02:35,323
@@ -178,11 +178,11 @@ con su candidatura al doctorado.
 
 40
 00:02:38,243 --> 00:02:39,953
-¿Quieren que yo me disculpe?
+ï¿½Quieren que yo me disculpe?
 
 41
 00:02:40,787 --> 00:02:45,624
-Señorita Zott, rara vez
+Seï¿½orita Zott, rara vez
 permiten dar una segunda oportunidad
 
 42
@@ -191,7 +191,7 @@ para este tipo de malentendidos.
 
 43
 00:02:48,503 --> 00:02:51,214
-Es una solución elegante
+Es una soluciï¿½n elegante
 que funciona para todos.
 
 44
@@ -206,8 +206,8 @@ Solo me faltan meses para publicar...
 
 46
 00:03:00,265 --> 00:03:03,727
-Apuñaló a un profesor titular
-con un lápiz.
+Apuï¿½alï¿½ a un profesor titular
+con un lï¿½piz.
 
 47
 00:03:05,896 --> 00:03:07,856
@@ -215,13 +215,13 @@ Exprese su arrepentimiento por sus actos
 
 48
 00:03:08,607 --> 00:03:12,152
-y fingiremos que jamás ocurrió
+y fingiremos que jamï¿½s ocurriï¿½
 este desafortunado asunto.
 
 49
 00:03:17,240 --> 00:03:19,408
 Ahora que lo pienso bien,
-sí me arrepiento de algo.
+sï¿½ me arrepiento de algo.
 
 50
 00:03:19,409 --> 00:03:20,493
@@ -230,7 +230,7 @@ Bien.
 51
 00:03:22,537 --> 00:03:24,539
 Me arrepiento
-de no haber tenido más lápices.
+de no haber tenido mï¿½s lï¿½pices.
 
 52
 00:04:20,637 --> 00:04:23,097
@@ -238,7 +238,7 @@ BASADA EN EL LIBRO DE BONNIE GARMUS
 
 53
 00:04:23,098 --> 00:04:26,643
-LECCIONES DE QUÍMICA
+LECCIONES DE QUï¿½MICA
 
 54
 00:04:48,873 --> 00:04:51,625
@@ -255,11 +255,11 @@ Ya no quiero trabajar con Calvin Evans.
 
 57
 00:04:54,546 --> 00:04:55,880
-Ya. ¿Puedo preguntar por qué?
+Ya. ï¿½Puedo preguntar por quï¿½?
 
 58
 00:04:55,881 --> 00:04:57,256
-Porque no está funcionando.
+Porque no estï¿½ funcionando.
 
 59
 00:04:57,257 --> 00:05:00,551
@@ -269,30 +269,30 @@ pero no puedo hacer nada.
 60
 00:05:00,552 --> 00:05:02,428
 Por el amor de Dios, Fran.
-¿Qué debo hacer?
+ï¿½Quï¿½ debo hacer?
 
 61
 00:05:02,429 --> 00:05:05,264
-¿Debo llenar un formulario?
-¿Una entrevista rápida de salida?
+ï¿½Debo llenar un formulario?
+ï¿½Una entrevista rï¿½pida de salida?
 
 62
 00:05:05,265 --> 00:05:07,558
-Haré cualquier truco o maroma que quieras.
+Harï¿½ cualquier truco o maroma que quieras.
 
 63
 00:05:07,559 --> 00:05:08,934
-Sí que me sorprendes.
+Sï¿½ que me sorprendes.
 
 64
 00:05:08,935 --> 00:05:11,395
-¿Ni siquiera el Dr. Evans
+ï¿½Ni siquiera el Dr. Evans
 lo suficientemente bueno para ti?
 
 65
 00:05:11,396 --> 00:05:13,230
-- ¿Disculpa?
-- Desde que llegaste aquí,
+- ï¿½Disculpa?
+- Desde que llegaste aquï¿½,
 
 66
 00:05:13,231 --> 00:05:16,108
@@ -305,13 +305,13 @@ Desfilas por estos pasillos
 
 68
 00:05:17,277 --> 00:05:19,820
-tan arrogante como si tú
+tan arrogante como si tï¿½
 hubieras inventado la penicilina.
 
 69
 00:05:19,821 --> 00:05:21,989
-- La penicilina no se inventó. Fue descu...
-- Ahórratelo.
+- La penicilina no se inventï¿½. Fue descu...
+- Ahï¿½rratelo.
 
 70
 00:05:21,990 --> 00:05:24,533
@@ -320,42 +320,42 @@ por alguien tan despistada.
 
 71
 00:05:24,534 --> 00:05:26,076
-- ¿De qué hablas?
+- ï¿½De quï¿½ hablas?
 - Te lo dije.
 
 72
 00:05:26,077 --> 00:05:28,746
-Las cosas se complicarían
+Las cosas se complicarï¿½an
 con el Dr. Evans, pero no me escuchaste
 
 73
 00:05:28,747 --> 00:05:31,665
 porque soy una mujer tonta y superficial,
-¿verdad?
+ï¿½verdad?
 
 74
 00:05:31,666 --> 00:05:34,919
-¿Qué podría enseñarle
-a una gran técnica de laboratorio como tú?
+ï¿½Quï¿½ podrï¿½a enseï¿½arle
+a una gran tï¿½cnica de laboratorio como tï¿½?
 
 75
 00:05:34,920 --> 00:05:37,588
-- Soy química.
+- Soy quï¿½mica.
 - Eres una esnob.
 
 76
 00:05:37,589 --> 00:05:39,465
 Eres muy buena
-para estar en Señorita Hastings
+para estar en Seï¿½orita Hastings
 
 77
 00:05:39,466 --> 00:05:41,217
-sin importar cuánto tiempo y esfuerzo
+sin importar cuï¿½nto tiempo y esfuerzo
 
 78
 00:05:41,218 --> 00:05:42,509
-- le dediqué...
-- Pero ¡participé!
+- le dediquï¿½...
+- Pero ï¿½participï¿½!
 
 79
 00:05:42,510 --> 00:05:44,637
@@ -368,24 +368,24 @@ ocupara ese lugar.
 
 81
 00:05:46,556 --> 00:05:48,515
-¿A quién le importaría un concurso falso?
+ï¿½A quiï¿½n le importarï¿½a un concurso falso?
 
 82
 00:05:48,516 --> 00:05:49,892
-¡A mí! Ese es mi trabajo.
+ï¿½A mï¿½! Ese es mi trabajo.
 
 83
 00:05:49,893 --> 00:05:51,977
-¿Y sabes qué? Creo que muchos acordarían
+ï¿½Y sabes quï¿½? Creo que muchos acordarï¿½an
 
 84
 00:05:51,978 --> 00:05:53,812
-que es más importante
+que es mï¿½s importante
 que abrirle las piernas
 
 85
 00:05:53,813 --> 00:05:56,106
-al científico más prestigioso
+al cientï¿½fico mï¿½s prestigioso
 de este lugar.
 
 86
@@ -398,16 +398,16 @@ El Dr. Evans no es muy popular,
 
 88
 00:06:01,613 --> 00:06:03,864
-pero es un muy buen científico.
+pero es un muy buen cientï¿½fico.
 
 89
 00:06:03,865 --> 00:06:05,158
-Tú no eres nada de eso.
+Tï¿½ no eres nada de eso.
 
 90
 00:06:06,326 --> 00:06:09,496
-No me harás trabajar con él por despecho.
-Hablaré con el Dr. Donatti.
+No me harï¿½s trabajar con ï¿½l por despecho.
+Hablarï¿½ con el Dr. Donatti.
 
 91
 00:06:09,913 --> 00:06:10,913
@@ -415,17 +415,17 @@ Adelante.
 
 92
 00:06:10,914 --> 00:06:13,707
-Te dirá que ya cubrimos tu puesto
-en el laboratorio de aminoácidos.
+Te dirï¿½ que ya cubrimos tu puesto
+en el laboratorio de aminoï¿½cidos.
 
 93
 00:06:13,708 --> 00:06:17,379
 Un joven colega brillante de Harvard.
-De hecho, él lo recomendó.
+De hecho, ï¿½l lo recomendï¿½.
 
 94
 00:06:19,256 --> 00:06:21,800
-Tú te lo buscaste.
+Tï¿½ te lo buscaste.
 No es mi culpa que te haya pasado esto.
 
 95
@@ -443,42 +443,42 @@ Hola.
 
 98
 00:06:55,458 --> 00:06:56,458
-¿Podemos hablar?
+ï¿½Podemos hablar?
 
 99
 00:06:56,459 --> 00:06:59,086
-¿Podrías pasarte al otro lado
-de la sala? Este es el mío.
+ï¿½Podrï¿½as pasarte al otro lado
+de la sala? Este es el mï¿½o.
 
 100
 00:06:59,087 --> 00:07:02,047
-LABORATORIO DE QUÍMICA - NO PASE
+LABORATORIO DE QUï¿½MICA - NO PASE
 NO MOLESTE - NO SE DEMORE
 
 101
 00:07:02,048 --> 00:07:05,551
-Creé un sistema espacial que maximizará
-la productividad de nuestra investigación
+Creï¿½ un sistema espacial que maximizarï¿½
+la productividad de nuestra investigaciï¿½n
 
 102
 00:07:05,552 --> 00:07:07,721
-y respetará al mismo tiempo
-los límites de cada uno.
+y respetarï¿½ al mismo tiempo
+los lï¿½mites de cada uno.
 
 103
 00:07:08,889 --> 00:07:11,766
-Ese será tu lado del laboratorio
-y este será el mío.
+Ese serï¿½ tu lado del laboratorio
+y este serï¿½ el mï¿½o.
 
 104
 00:07:12,642 --> 00:07:15,227
 Claro que la sala
-no es perfectamente simétrica,
+no es perfectamente simï¿½trica,
 
 105
 00:07:15,228 --> 00:07:17,438
-así que me di
-11 centímetros cuadrados menos
+asï¿½ que me di
+11 centï¿½metros cuadrados menos
 
 106
 00:07:17,439 --> 00:07:20,317
@@ -488,26 +488,26 @@ por la diferencia de masa corporal.
 107
 00:07:26,197 --> 00:07:29,491
 Elizabeth, no entiendo.
-¿Qué hice que fue tan grave?
+ï¿½Quï¿½ hice que fue tan grave?
 
 108
 00:07:29,492 --> 00:07:30,744
-Así es más claro.
+Asï¿½ es mï¿½s claro.
 
 109
 00:07:37,042 --> 00:07:40,670
-¿Es por una cuestión de higiene?
-Porque verás que ya no hay ropa interior.
+ï¿½Es por una cuestiï¿½n de higiene?
+Porque verï¿½s que ya no hay ropa interior.
 
 110
 00:07:42,547 --> 00:07:45,550
-Prometo que ya no comeré
+Prometo que ya no comerï¿½
 galletas salada en el laboratorio.
 
 111
 00:07:54,893 --> 00:07:57,061
 Sea lo que sea,
-sé que puedo hacer lo correcto.
+sï¿½ que puedo hacer lo correcto.
 
 112
 00:07:57,062 --> 00:07:58,437
@@ -515,7 +515,7 @@ Dr. Evans, estoy trabajando.
 
 113
 00:07:58,438 --> 00:08:00,732
-¿Podríamos conversar sobre esto más tarde?
+ï¿½Podrï¿½amos conversar sobre esto mï¿½s tarde?
 
 114
 00:08:01,775 --> 00:08:02,776
@@ -523,11 +523,11 @@ Claro.
 
 115
 00:08:11,284 --> 00:08:12,410
-¿Debería...?
+ï¿½Deberï¿½a...?
 
 116
 00:08:16,748 --> 00:08:18,208
-¿Y si mejor me voy?
+ï¿½Y si mejor me voy?
 
 117
 00:08:20,001 --> 00:08:21,461
@@ -544,15 +544,15 @@ De acuerdo.
 
 120
 00:10:24,876 --> 00:10:26,920
-¡No comas eso! Te vas a enfermar.
+ï¿½No comas eso! Te vas a enfermar.
 
 121
 00:10:31,258 --> 00:10:32,592
-Espera aquí. Ya vuelvo.
+Espera aquï¿½. Ya vuelvo.
 
 122
 00:10:58,159 --> 00:10:59,411
-También es un placer conocerte.
+Tambiï¿½n es un placer conocerte.
 
 123
 00:11:02,080 --> 00:11:03,456
@@ -560,25 +560,25 @@ Pues buena suerte.
 
 124
 00:11:06,001 --> 00:11:09,045
-¿Están listos
+ï¿½Estï¿½n listos
 para extraer ADN de una fresa?
 
 125
 00:11:10,839 --> 00:11:12,132
-Aquí vamos.
+Aquï¿½ vamos.
 
 126
 00:11:14,718 --> 00:11:16,552
-- ¿Es todo?
+- ï¿½Es todo?
 - Hola.
 
 127
 00:11:16,553 --> 00:11:17,721
-¿Que si es todo?
+ï¿½Que si es todo?
 
 128
 00:11:18,221 --> 00:11:23,309
-Están viendo el manual
+Estï¿½n viendo el manual
 de instrucciones de la vida.
 
 129
@@ -591,7 +591,7 @@ Vaya.
 
 131
 00:11:26,021 --> 00:11:27,272
-¿Podemos ver la tele?
+ï¿½Podemos ver la tele?
 
 132
 00:11:29,149 --> 00:11:30,482
@@ -599,15 +599,15 @@ Gracias por cuidarlos.
 
 133
 00:11:30,483 --> 00:11:31,776
-Lo intenté.
+Lo intentï¿½.
 
 134
 00:11:36,031 --> 00:11:38,198
-Por su parte, la comisión de carreteras
+Por su parte, la comisiï¿½n de carreteras
 
 135
 00:11:38,199 --> 00:11:39,992
-envió peritos a pesar de nuestra petición.
+enviï¿½ peritos a pesar de nuestra peticiï¿½n.
 
 136
 00:11:39,993 --> 00:11:41,702
@@ -616,7 +616,7 @@ O tal vez fue por eso.
 137
 00:11:41,703 --> 00:11:45,373
 Tomaban medidas cerca de la iglesia.
-¿Te lo imaginas?
+ï¿½Te lo imaginas?
 
 138
 00:11:46,458 --> 00:11:47,459
@@ -624,25 +624,25 @@ Es terrible.
 
 139
 00:11:49,419 --> 00:11:50,629
-¿Hay algo que pueda hacer?
+ï¿½Hay algo que pueda hacer?
 
 140
 00:11:51,546 --> 00:11:52,881
-Sí. De hecho.
+Sï¿½. De hecho.
 
 141
 00:11:54,591 --> 00:11:56,634
 El ayuntamiento
-hará una reunión al final del mes
+harï¿½ una reuniï¿½n al final del mes
 
 142
 00:11:56,635 --> 00:12:00,138
-y el comité Adams-Washington
-presentará el caso contra la autopista.
+y el comitï¿½ Adams-Washington
+presentarï¿½ el caso contra la autopista.
 
 143
 00:12:01,181 --> 00:12:05,351
-Harías una gran diferencia
+Harï¿½as una gran diferencia
 si vas a mostrar tu apoyo.
 
 144
@@ -656,17 +656,17 @@ No necesitas experiencia. Esa ya lo tengo.
 
 146
 00:12:14,945 --> 00:12:18,656
-Necesito a alguien que se vea como tú
+Necesito a alguien que se vea como tï¿½
 de nuestro lado de la sala
 
 147
 00:12:18,657 --> 00:12:22,369
-apoyándome cuando digo
+apoyï¿½ndome cuando digo
 que esto es un asunto comunitario.
 
 148
 00:12:23,411 --> 00:12:25,956
-Ahí estaré. Puedes confiar en mí.
+Ahï¿½ estarï¿½. Puedes confiar en mï¿½.
 
 149
 00:12:27,582 --> 00:12:28,583
@@ -674,20 +674,20 @@ Gracias.
 
 150
 00:12:35,966 --> 00:12:36,967
-¿Estás bien?
+ï¿½Estï¿½s bien?
 
 151
 00:12:41,805 --> 00:12:42,806
-Sí.
+Sï¿½.
 
 152
 00:13:10,542 --> 00:13:13,503
-Perdón. Por lo que sea que haya hecho,
+Perdï¿½n. Por lo que sea que haya hecho,
 me disculpo. - Calvin
 
 153
 00:13:23,346 --> 00:13:24,806
-No está en el edificio.
+No estï¿½ en el edificio.
 
 154
 00:13:31,438 --> 00:13:32,689
@@ -700,7 +700,7 @@ en la que tengo que cancelar mi juego
 
 156
 00:13:46,036 --> 00:13:47,829
-para sentarme aquí
+para sentarme aquï¿½
 
 157
 00:13:48,455 --> 00:13:49,538
@@ -708,7 +708,7 @@ y esperar a un fantasma.
 
 158
 00:13:49,539 --> 00:13:52,292
-- Señor, iba a...
+- Seï¿½or, iba a...
 - Calvin Evans es una estrella.
 
 159
@@ -726,7 +726,7 @@ Las estrellas no son desechables.
 
 162
 00:14:00,634 --> 00:14:02,302
-Tú no eres una estrella, Robert.
+Tï¿½ no eres una estrella, Robert.
 
 163
 00:14:02,802 --> 00:14:04,054
@@ -738,13 +738,13 @@ Los ejecutivos son desechables.
 
 165
 00:14:06,890 --> 00:14:10,935
-Así que dejemos de fingir
+Asï¿½ que dejemos de fingir
 con estas reuniones semanales
 
 166
 00:14:10,936 --> 00:14:15,982
 en esta sala bastante deprimente
-y fijemos una fecha límite.
+y fijemos una fecha lï¿½mite.
 
 167
 00:14:16,608 --> 00:14:20,152
@@ -758,54 +758,54 @@ su propuesta para Remsen.
 
 169
 00:14:24,616 --> 00:14:26,618
-Si te pasas de un día, estás fuera.
+Si te pasas de un dï¿½a, estï¿½s fuera.
 
 170
 00:14:29,871 --> 00:14:33,959
 No te enfades, Robert.
-También soy un ejecutivo.
+Tambiï¿½n soy un ejecutivo.
 
 171
 00:14:34,751 --> 00:14:37,546
-Pero a mí me pagan más.
+Pero a mï¿½ me pagan mï¿½s.
 
 172
 00:14:57,107 --> 00:14:58,108
-¿Dónde está Evans?
+ï¿½Dï¿½nde estï¿½ Evans?
 
 173
 00:14:59,484 --> 00:15:00,485
-No podría saberlo.
+No podrï¿½a saberlo.
 
 174
 00:15:15,959 --> 00:15:17,335
-Se preocupa por usted, ¿no?
+Se preocupa por usted, ï¿½no?
 
 175
 00:15:18,587 --> 00:15:20,130
-Usted tendrá que preguntarle.
+Usted tendrï¿½ que preguntarle.
 
 176
 00:15:21,631 --> 00:15:23,091
-Habrá despidos.
+Habrï¿½ despidos.
 
 177
 00:15:24,009 --> 00:15:26,887
 Si no consigue la beca de Remsen
-para inicios de año,
+para inicios de aï¿½o,
 
 178
 00:15:28,471 --> 00:15:29,848
-tendré que despedir a varios.
+tendrï¿½ que despedir a varios.
 
 179
 00:15:30,515 --> 00:15:32,642
-Técnicos, por ejemplo.
+Tï¿½cnicos, por ejemplo.
 
 180
 00:15:33,894 --> 00:15:37,314
 Secretarias. Todo el personal femenino
-tendrá que irse primero.
+tendrï¿½ que irse primero.
 
 181
 00:15:39,816 --> 00:15:43,278
@@ -813,7 +813,7 @@ Los hombres deben cuidar a sus familias.
 
 182
 00:15:45,488 --> 00:15:46,740
-En mi posición,
+En mi posiciï¿½n,
 
 183
 00:15:48,366 --> 00:15:50,201
@@ -821,11 +821,11 @@ esto es algo que se debe considerar.
 
 184
 00:15:55,749 --> 00:15:59,461
-Dr. Donatti, ¿eso fue una amenaza?
+Dr. Donatti, ï¿½eso fue una amenaza?
 
 185
 00:16:01,254 --> 00:16:03,465
-Cuando las despida, les diré la verdad.
+Cuando las despida, les dirï¿½ la verdad.
 
 186
 00:16:04,257 --> 00:16:07,552
@@ -834,7 +834,7 @@ que distrajo a Calvin Evans.
 
 187
 00:16:47,717 --> 00:16:48,718
-¿Calvin?
+ï¿½Calvin?
 
 188
 00:16:54,391 --> 00:16:55,392
@@ -846,12 +846,12 @@ Calvin.
 
 190
 00:16:59,437 --> 00:17:02,983
-- ¿Qué?
+- ï¿½Quï¿½?
 - Donatti fue ayer al laboratorio.
 
 191
 00:17:03,650 --> 00:17:04,901
-¿Y qué?
+ï¿½Y quï¿½?
 
 192
 00:17:05,485 --> 00:17:09,698
@@ -860,7 +860,7 @@ si no ganas para Remsen.
 
 193
 00:17:10,657 --> 00:17:11,949
-Más presión. Perfecto.
+Mï¿½s presiï¿½n. Perfecto.
 
 194
 00:17:12,449 --> 00:17:13,535
@@ -868,12 +868,12 @@ Perfecto.
 
 195
 00:17:14,703 --> 00:17:17,623
-¿Sabes qué he hecho desde que gané
-por última vez la Remsen hace dos años?
+ï¿½Sabes quï¿½ he hecho desde que ganï¿½
+por ï¿½ltima vez la Remsen hace dos aï¿½os?
 
 196
 00:17:18,372 --> 00:17:19,373
-¿Lo sabes?
+ï¿½Lo sabes?
 
 197
 00:17:21,834 --> 00:17:22,835
@@ -885,7 +885,7 @@ Nada.
 
 199
 00:17:25,170 --> 00:17:28,883
-Voy a mi laboratorio cada día
+Voy a mi laboratorio cada dï¿½a
 y cierro la puerta para que nadie vea
 
 200
@@ -894,15 +894,15 @@ que no he logrado ni un carajo.
 
 201
 00:17:34,723 --> 00:17:35,974
-Me quedé sin ideas.
+Me quedï¿½ sin ideas.
 
 202
 00:17:38,768 --> 00:17:40,186
-Luego te conocí
+Luego te conocï¿½
 
 203
 00:17:41,521 --> 00:17:43,189
-y tú tenías muchas.
+y tï¿½ tenï¿½as muchas.
 
 204
 00:17:44,274 --> 00:17:46,318
@@ -910,7 +910,7 @@ Fue como si pudiera volver a respirar.
 
 205
 00:17:48,570 --> 00:17:49,946
-Estábamos construyendo algo
+Estï¿½bamos construyendo algo
 
 206
 00:17:50,447 --> 00:17:51,781
@@ -918,7 +918,7 @@ y luego solo...
 
 207
 00:17:53,658 --> 00:17:57,913
-Me dejaste sin ninguna explicación.
+Me dejaste sin ninguna explicaciï¿½n.
 
 208
 00:17:58,663 --> 00:18:00,248
@@ -930,7 +930,7 @@ Me cuesta trabajo hablar de algunas cosas.
 
 210
 00:18:08,757 --> 00:18:12,385
-Necesito que la puerta esté abierta,
+Necesito que la puerta estï¿½ abierta,
 necesito saber que hay una salida.
 
 211
@@ -943,11 +943,11 @@ Puedo hacerlo si eso es lo que necesitas.
 
 213
 00:18:26,650 --> 00:18:28,068
-Extraño trabajar contigo.
+Extraï¿½o trabajar contigo.
 
 214
 00:18:29,736 --> 00:18:30,987
-Yo también.
+Yo tambiï¿½n.
 
 215
 00:18:32,864 --> 00:18:33,865
@@ -955,8 +955,8 @@ Es que...
 
 216
 00:18:36,243 --> 00:18:40,664
-es difícil confiar en que esta relación
-no terminará mal.
+es difï¿½cil confiar en que esta relaciï¿½n
+no terminarï¿½ mal.
 
 217
 00:18:43,083 --> 00:18:44,084
@@ -976,7 +976,7 @@ Entonces, te veo el lunes.
 
 221
 00:18:54,135 --> 00:18:57,472
-Elizabeth. ¿Cómo se llama tu perro?
+Elizabeth. ï¿½Cï¿½mo se llama tu perro?
 
 222
 00:18:59,516 --> 00:19:00,517
@@ -994,24 +994,24 @@ Es como un reloj.
 
 225
 00:19:10,402 --> 00:19:11,861
-¿Puedo hacerte otra pregunta?
+ï¿½Puedo hacerte otra pregunta?
 
 226
 00:19:12,612 --> 00:19:15,657
 Preguntar si puedes preguntar
-es ineficiente, pero sí.
+es ineficiente, pero sï¿½.
 
 227
 00:19:18,410 --> 00:19:20,119
-¿Quieres aprender a remar?
+ï¿½Quieres aprender a remar?
 
 228
 00:19:20,120 --> 00:19:21,996
-¿En eso? No, gracias.
+ï¿½En eso? No, gracias.
 
 229
 00:19:21,997 --> 00:19:25,583
-No, me refería a aprender en el agua.
+No, me referï¿½a a aprender en el agua.
 
 230
 00:19:25,584 --> 00:19:29,336
@@ -1020,26 +1020,26 @@ Y no se diga de la eficiencia,
 
 231
 00:19:29,337 --> 00:19:35,010
-no hay nada más perfectamente medido,
-más íntegramente científico que remar.
+no hay nada mï¿½s perfectamente medido,
+mï¿½s ï¿½ntegramente cientï¿½fico que remar.
 
 232
 00:19:35,844 --> 00:19:38,305
-Hasta el más mínimo cabeceo
-desequilibraría el bote.
+Hasta el mï¿½s mï¿½nimo cabeceo
+desequilibrarï¿½a el bote.
 
 233
 00:19:39,180 --> 00:19:40,931
-Me costaría trabajo
+Me costarï¿½a trabajo
 
 234
 00:19:40,932 --> 00:19:43,351
-encontrar a alguien más apto
-para este deporte que tú.
+encontrar a alguien mï¿½s apto
+para este deporte que tï¿½.
 
 235
 00:19:44,603 --> 00:19:48,356
-Sería bueno para el equipo.
+Serï¿½a bueno para el equipo.
 
 236
 00:19:51,276 --> 00:19:54,029
@@ -1047,20 +1047,20 @@ Recuerda respirar hondo y relajarte.
 
 237
 00:19:54,988 --> 00:19:57,781
-Sé paciente con la deslizadora.
+Sï¿½ paciente con la deslizadora.
 
 238
 00:19:57,782 --> 00:19:58,908
-- Vas muy rápido.
-- ¿Rápido?
+- Vas muy rï¿½pido.
+- ï¿½Rï¿½pido?
 
 239
 00:19:58,909 --> 00:20:00,535
-¿Qué? Dijiste que iba muy lento.
+ï¿½Quï¿½? Dijiste que iba muy lento.
 
 240
 00:20:01,161 --> 00:20:02,494
-- No lo pienses más.
+- No lo pienses mï¿½s.
 - Es imposible.
 
 241
@@ -1069,17 +1069,17 @@ Deja que los remos se hundan.
 
 242
 00:20:04,080 --> 00:20:06,665
-- Lo haces muy bien, ¿sí?
+- Lo haces muy bien, ï¿½sï¿½?
 - Calvin Evans, soy una absoluta
 
 243
 00:20:06,666 --> 00:20:09,002
-- y completa inútil...
-- Oye. ¡No!
+- y completa inï¿½til...
+- Oye. ï¿½No!
 
 244
 00:20:13,882 --> 00:20:16,718
-Elizabeth. ¡Elizabeth!
+Elizabeth. ï¿½Elizabeth!
 
 245
 00:20:18,345 --> 00:20:22,098
@@ -1088,20 +1088,20 @@ Elizabeth. ¡Elizabeth!
 
 246
 00:20:23,892 --> 00:20:25,894
-¿Por qué no me dijiste que no sabes nadar?
+ï¿½Por quï¿½ no me dijiste que no sabes nadar?
 
 247
 00:20:26,394 --> 00:20:28,479
-Dijiste que estaríamos en un bote.
+Dijiste que estarï¿½amos en un bote.
 
 248
 00:20:28,480 --> 00:20:31,482
-Como entendí hace rato,
+Como entendï¿½ hace rato,
 un bote es para que no tengas que nadar.
 
 249
 00:20:31,483 --> 00:20:33,526
-Idealmente sí.
+Idealmente sï¿½.
 
 250
 00:20:37,989 --> 00:20:41,785
@@ -1109,22 +1109,22 @@ Gracias por no dejarme morir.
 
 251
 00:20:43,036 --> 00:20:47,040
-- ¿Hablas de salvarte galantemente?
+- ï¿½Hablas de salvarte galantemente?
 - Por favor. No exageres.
 
 252
 00:20:52,963 --> 00:20:56,174
-Sí es pintoresco. Lo reconozco.
+Sï¿½ es pintoresco. Lo reconozco.
 
 253
 00:21:02,389 --> 00:21:05,517
 Elizabeth, creo que esto
-será un problema...
+serï¿½ un problema...
 
 254
 00:21:07,227 --> 00:21:09,521
 y no estoy seguro
-de que haya una solución.
+de que haya una soluciï¿½n.
 
 255
 00:21:11,856 --> 00:21:14,985
@@ -1136,7 +1136,7 @@ Profundos.
 
 257
 00:21:18,113 --> 00:21:20,698
-Y no es justo para ti como científica.
+Y no es justo para ti como cientï¿½fica.
 
 258
 00:21:20,699 --> 00:21:24,911
@@ -1145,17 +1145,17 @@ con profesionalismo y respeto.
 
 259
 00:21:26,997 --> 00:21:28,373
-Así que tal vez tenías razón.
+Asï¿½ que tal vez tenï¿½as razï¿½n.
 
 260
 00:21:28,873 --> 00:21:31,585
-Tal vez será mejor
+Tal vez serï¿½ mejor
 que trabajamos por separado.
 
 261
 00:21:32,502 --> 00:21:35,130
 De esa forma,
-no estaré expuesto a tus feromonas y...
+no estarï¿½ expuesto a tus feromonas y...
 
 262
 00:21:47,350 --> 00:21:48,351
@@ -1163,7 +1163,7 @@ Correcto.
 
 263
 00:21:50,854 --> 00:21:51,897
-¿Y ahora qué?
+ï¿½Y ahora quï¿½?
 
 264
 00:21:53,023 --> 00:21:54,024
@@ -1171,12 +1171,12 @@ Continuemos.
 
 265
 00:21:55,567 --> 00:21:58,027
-Pero seguiremos haciendo eso, ¿no?
-¿Besarnos?
+Pero seguiremos haciendo eso, ï¿½no?
+ï¿½Besarnos?
 
 266
 00:21:58,028 --> 00:22:01,114
-Sí. Siempre habrá ese riesgo.
+Sï¿½. Siempre habrï¿½ ese riesgo.
 
 267
 00:22:03,909 --> 00:22:04,950
@@ -1185,21 +1185,21 @@ Y como pueden ver,
 268
 00:22:04,951 --> 00:22:07,661
 la ruta que proponemos
-es la más eficiente económicamente.
+es la mï¿½s eficiente econï¿½micamente.
 
 269
 00:22:07,662 --> 00:22:11,248
-También podrá darle vida
+Tambiï¿½n podrï¿½ darle vida
 a varias comunidades degradadas.
 
 270
 00:22:11,249 --> 00:22:12,541
-SÁLVENNOS DE LA AUTOPISTA
+Sï¿½LVENNOS DE LA AUTOPISTA
 
 271
 00:22:12,542 --> 00:22:15,879
-Creemos que esta autopista será
-un brillante ejemplo de geografía urbana.
+Creemos que esta autopista serï¿½
+un brillante ejemplo de geografï¿½a urbana.
 
 272
 00:22:17,005 --> 00:22:18,714
@@ -1208,7 +1208,7 @@ Gracias, Sr. Jenkins.
 273
 00:22:18,715 --> 00:22:25,055
 Ahora escucharemos a una representante
-del comité Adams-Washington.
+del comitï¿½ Adams-Washington.
 
 274
 00:22:26,306 --> 00:22:28,974
@@ -1225,12 +1225,12 @@ residente orgullosa de Sugar Hill
 
 277
 00:22:32,562 --> 00:22:34,856
-y miembro fundador de este comité.
+y miembro fundador de este comitï¿½.
 
 278
 00:22:36,733 --> 00:22:42,613
 En la defensa de su propuesta,
-usó nueve veces la palabra "degradado"
+usï¿½ nueve veces la palabra "degradado"
 
 279
 00:22:42,614 --> 00:22:44,366
@@ -1244,11 +1244,11 @@ el significado de esa palabra.
 
 281
 00:22:50,705 --> 00:22:52,998
-Sombrío, lúgubre, inhóspito.
+Sombrï¿½o, lï¿½gubre, inhï¿½spito.
 
 282
 00:22:52,999 --> 00:22:55,167
-¿Necesita que le defina
+ï¿½Necesita que le defina
 alguna de esas palabras?
 
 283
@@ -1257,7 +1257,7 @@ Gracias, pero no.
 
 284
 00:22:58,838 --> 00:23:01,633
-Solo pregunto porque me confundió.
+Solo pregunto porque me confundiï¿½.
 
 285
 00:23:02,133 --> 00:23:04,176
@@ -1280,20 +1280,20 @@ organizan reuniones en sus mansiones.
 289
 00:23:12,727 --> 00:23:15,854
 Mi marido, quien actualmente sirve
-a nuestro país en Corea,
+a nuestro paï¿½s en Corea,
 
 290
 00:23:15,855 --> 00:23:17,982
-es el primer jefe de cirugía negro.
+es el primer jefe de cirugï¿½a negro.
 
 291
 00:23:17,983 --> 00:23:21,278
 Uno de mis vecinos
-es candidato al Nobel de Química.
+es candidato al Nobel de Quï¿½mica.
 
 292
 00:23:21,778 --> 00:23:25,156
-Así que,
+Asï¿½ que,
 cuando dice que es un lugar degradado...
 
 293
@@ -1307,35 +1307,35 @@ con su autopista nuestro vecindario,
 
 295
 00:23:33,248 --> 00:23:36,208
-en su mayoría, negro,
-y otros dos vecindarios más,
+en su mayorï¿½a, negro,
+y otros dos vecindarios mï¿½s,
 
 296
 00:23:36,209 --> 00:23:39,754
-con la única justificación
-de que están degradados,
+con la ï¿½nica justificaciï¿½n
+de que estï¿½n degradados,
 
 297
 00:23:41,214 --> 00:23:44,593
-mi único recurso
-es cuestionar la definición de la palabra.
+mi ï¿½nico recurso
+es cuestionar la definiciï¿½n de la palabra.
 
 298
 00:23:56,396 --> 00:24:00,691
-Intenté añadir PRPP y ATP
+Intentï¿½ aï¿½adir PRPP y ATP
 a diversas concentraciones,
 
 299
 00:24:00,692 --> 00:24:02,110
-pero siempre terminó en lo mismo.
+pero siempre terminï¿½ en lo mismo.
 
 300
 00:24:03,194 --> 00:24:05,530
-¿Tal vez la solución era muy ácida?
+ï¿½Tal vez la soluciï¿½n era muy ï¿½cida?
 
 301
 00:24:06,948 --> 00:24:08,240
-¿O muy alcalina?
+ï¿½O muy alcalina?
 
 302
 00:24:08,241 --> 00:24:09,658
@@ -1343,7 +1343,7 @@ Estoy realmente ofendida.
 
 303
 00:24:09,659 --> 00:24:11,368
-¿Crees que soy una imbécil?
+ï¿½Crees que soy una imbï¿½cil?
 
 304
 00:24:11,369 --> 00:24:12,913
@@ -1355,32 +1355,32 @@ Tomemos un descanso.
 
 306
 00:24:17,834 --> 00:24:19,585
-¿Un descanso? Ni fuimos productivos.
+ï¿½Un descanso? Ni fuimos productivos.
 
 307
 00:24:19,586 --> 00:24:21,128
-Justo por eso deberíamos descansar.
+Justo por eso deberï¿½amos descansar.
 
 308
 00:24:21,129 --> 00:24:24,924
-Elizabeth, tú eres más lista que yo,
+Elizabeth, tï¿½ eres mï¿½s lista que yo,
 
 309
 00:24:24,925 --> 00:24:26,968
-pero yo tengo algo que tú no.
+pero yo tengo algo que tï¿½ no.
 
 310
 00:24:27,761 --> 00:24:28,762
-¿Un cromosoma Y?
+ï¿½Un cromosoma Y?
 
 311
 00:24:29,471 --> 00:24:32,306
-Sí,
-pero también tengo una mentalidad de jazz.
+Sï¿½,
+pero tambiï¿½n tengo una mentalidad de jazz.
 
 312
 00:24:32,307 --> 00:24:36,352
-Sé cuándo sentarme,
+Sï¿½ cuï¿½ndo sentarme,
 relajarme y dejar que las ideas...
 
 313
@@ -1390,7 +1390,7 @@ relajarme y dejar que las ideas...
 
 314
 00:24:40,023 --> 00:24:42,901
-¿Sin una dirección y sin un objetivo?
+ï¿½Sin una direcciï¿½n y sin un objetivo?
 
 315
 00:24:43,818 --> 00:24:45,528
@@ -1410,11 +1410,11 @@ Vamos, hay que irnos.
 
 319
 00:24:56,831 --> 00:24:58,833
-Quiero llevarte a un lugar más importante.
+Quiero llevarte a un lugar mï¿½s importante.
 
 320
 00:25:05,048 --> 00:25:07,425
-Estarás bien. Aquí estoy.
+Estarï¿½s bien. Aquï¿½ estoy.
 
 321
 00:25:11,471 --> 00:25:15,891
@@ -1423,16 +1423,16 @@ es que mi reflejo de miedo paralizador
 
 322
 00:25:15,892 --> 00:25:19,311
-anula mi reflejo de inmersión,
+anula mi reflejo de inmersiï¿½n,
 
 323
 00:25:19,312 --> 00:25:23,817
-así que debo encontrar
+asï¿½ que debo encontrar
 una forma de anular el primero.
 
 324
 00:25:25,694 --> 00:25:26,695
-Podría ser.
+Podrï¿½a ser.
 
 325
 00:25:27,946 --> 00:25:30,156
@@ -1453,70 +1453,70 @@ y haz burbujas.
 329
 00:25:48,842 --> 00:25:51,845
 No tienes que meter toda la cabeza.
-Solo la cara, así.
+Solo la cara, asï¿½.
 
 330
 00:25:59,436 --> 00:26:00,645
-Tú puedes.
+Tï¿½ puedes.
 
 331
 00:26:01,771 --> 00:26:03,815
-Es tonto que esté tan nerviosa.
+Es tonto que estï¿½ tan nerviosa.
 
 332
 00:26:04,482 --> 00:26:05,483
-Aquí estoy.
+Aquï¿½ estoy.
 
 333
 00:26:12,741 --> 00:26:14,034
-Ya no lo haré.
+Ya no lo harï¿½.
 
 334
 00:26:14,701 --> 00:26:15,994
-Bueno, está bien.
+Bueno, estï¿½ bien.
 
 335
 00:26:18,747 --> 00:26:19,788
-¿Y si nos besamos?
+ï¿½Y si nos besamos?
 
 336
 00:26:19,789 --> 00:26:21,290
-¿Cómo serviría eso?
+ï¿½Cï¿½mo servirï¿½a eso?
 
 337
 00:26:21,291 --> 00:26:24,043
-Creo que funcionaría si entretengo tu boca
+Creo que funcionarï¿½a si entretengo tu boca
 
 338
 00:26:24,044 --> 00:26:27,923
 mientras nos hundimos.
-Solo debes confiar en mí.
+Solo debes confiar en mï¿½.
 
 339
 00:26:28,673 --> 00:26:29,965
 - Hazlo.
-- ¿Estás segura?
+- ï¿½Estï¿½s segura?
 
 340
 00:26:29,966 --> 00:26:31,718
-Sí, antes de que lo piense mejor.
+Sï¿½, antes de que lo piense mejor.
 
 341
 00:26:40,936 --> 00:26:41,937
-¿Qué te pareció?
+ï¿½Quï¿½ te pareciï¿½?
 
 342
 00:26:42,520 --> 00:26:44,481
 No estoy segura.
-Deberíamos intentarlo otra vez.
+Deberï¿½amos intentarlo otra vez.
 
 343
 00:27:30,068 --> 00:27:31,069
-¿Qué escribes?
+ï¿½Quï¿½ escribes?
 
 344
 00:27:32,487 --> 00:27:35,990
-Algunas reflexiones. Aún no están listas.
+Algunas reflexiones. Aï¿½n no estï¿½n listas.
 
 345
 00:27:35,991 --> 00:27:37,117
@@ -1524,35 +1524,35 @@ Dame una pista.
 
 346
 00:27:48,712 --> 00:27:50,630
-Me sedujiste para engañarme.
+Me sedujiste para engaï¿½arme.
 
 347
 00:27:51,673 --> 00:27:55,342
-¿"Hidrólisis repetida del ATP
-después de reducirse a ADP"?
+ï¿½"Hidrï¿½lisis repetida del ATP
+despuï¿½s de reducirse a ADP"?
 
 348
 00:27:55,343 --> 00:27:57,136
-Solo es algo que consideré.
+Solo es algo que considerï¿½.
 
 349
 00:27:57,137 --> 00:27:59,763
-El producto es AMP, pero me atoré.
+El producto es AMP, pero me atorï¿½.
 Es imposible.
 
 350
 00:27:59,764 --> 00:28:04,436
-Las moléculas hidrolizadas
+Las molï¿½culas hidrolizadas
 liberan pirofosfato.
 
 351
 00:28:07,856 --> 00:28:09,900
-Me atraes tanto así.
+Me atraes tanto asï¿½.
 
 352
 00:28:12,027 --> 00:28:17,282
-Con la energía producida por la reacción
-y el ion añadido que contiene fósforo.
+Con la energï¿½a producida por la reacciï¿½n
+y el ion aï¿½adido que contiene fï¿½sforo.
 
 353
 00:28:18,575 --> 00:28:20,243
@@ -1560,7 +1560,7 @@ Eso es, Calvin.
 
 354
 00:28:22,120 --> 00:28:23,622
-Por Dios. Ven aquí.
+Por Dios. Ven aquï¿½.
 
 355
 00:28:28,293 --> 00:28:32,922
@@ -1568,7 +1568,7 @@ Por Dios. Ven aquí.
 
 356
 00:28:32,923 --> 00:28:36,926
-<i>A Belén marchemos</i>
+<i>A Belï¿½n marchemos</i>
 
 357
 00:28:36,927 --> 00:28:39,345
@@ -1584,11 +1584,11 @@ Por Dios. Ven aquí.
 
 360
 00:28:49,356 --> 00:28:50,941
-¿Irás a casa para Navidad?
+ï¿½Irï¿½s a casa para Navidad?
 
 361
 00:28:52,859 --> 00:28:53,944
-¿De qué hablas?
+ï¿½De quï¿½ hablas?
 
 362
 00:28:55,195 --> 00:28:57,781
@@ -1597,11 +1597,11 @@ con la que celebrar las fiestas.
 
 363
 00:28:59,324 --> 00:29:01,701
-No. ¿Y tú?
+No. ï¿½Y tï¿½?
 
 364
 00:29:03,495 --> 00:29:05,497
-Este año no tengo ganas de celebrar.
+Este aï¿½o no tengo ganas de celebrar.
 
 365
 00:29:06,373 --> 00:29:08,291
@@ -1613,7 +1613,7 @@ Eso es raro, Elizabeth.
 
 367
 00:29:12,671 --> 00:29:13,672
-¿Por qué?
+ï¿½Por quï¿½?
 
 368
 00:29:14,172 --> 00:29:15,423
@@ -1621,11 +1621,11 @@ Siento que quiero lo mismo.
 
 369
 00:29:20,220 --> 00:29:21,221
-¿Y tú qué quieres?
+ï¿½Y tï¿½ quï¿½ quieres?
 
 370
 00:30:26,745 --> 00:30:29,748
-Calvin, apaga la música.
+Calvin, apaga la mï¿½sica.
 
 371
 00:30:37,672 --> 00:30:40,050
@@ -1634,16 +1634,16 @@ Hazlo de nuevo.
 372
 00:30:41,343 --> 00:30:42,636
 - Vaya.
-- ¿Lo logramos?
+- ï¿½Lo logramos?
 
 373
 00:30:43,970 --> 00:30:45,555
-- ¡Dios!
+- ï¿½Dios!
 - Lo logramos.
 
 374
 00:30:51,853 --> 00:30:53,145
-Deberíamos celebrar.
+Deberï¿½amos celebrar.
 
 375
 00:30:53,146 --> 00:30:54,231
@@ -1651,24 +1651,24 @@ Debemos celebrar.
 
 376
 00:30:56,024 --> 00:30:57,067
-Sígueme.
+Sï¿½gueme.
 
 377
 00:30:58,443 --> 00:31:00,320
-Número ocho. Pequeño diablo.
+Nï¿½mero ocho. Pequeï¿½o diablo.
 
 378
 00:32:13,685 --> 00:32:15,020
-Así es como se baila.
+Asï¿½ es como se baila.
 
 379
 00:32:31,369 --> 00:32:34,205
 Creo que es la primera vez
-que no odié la Navidad.
+que no odiï¿½ la Navidad.
 
 380
 00:32:35,540 --> 00:32:36,958
-¿No te emocionan las festividades?
+ï¿½No te emocionan las festividades?
 
 381
 00:32:37,959 --> 00:32:41,338
@@ -1677,15 +1677,15 @@ de las que no me quiero acordar.
 
 382
 00:32:42,672 --> 00:32:43,673
-A mí también.
+A mï¿½ tambiï¿½n.
 
 383
 00:32:44,257 --> 00:32:46,593
-¿Qué tipo de cosas?
+ï¿½Quï¿½ tipo de cosas?
 
 384
 00:32:48,094 --> 00:32:49,845
-Que todos mis parientes están muertos.
+Que todos mis parientes estï¿½n muertos.
 
 385
 00:32:49,846 --> 00:32:53,516
@@ -1698,21 +1698,21 @@ Lo siento.
 
 387
 00:32:58,021 --> 00:32:59,022
-¿Qué hay de ti?
+ï¿½Quï¿½ hay de ti?
 
 388
 00:33:00,148 --> 00:33:05,070
-¿De mi familia?
-Perdí a mi hermano cuando éramos jóvenes.
+ï¿½De mi familia?
+Perdï¿½ a mi hermano cuando ï¿½ramos jï¿½venes.
 
 389
 00:33:07,864 --> 00:33:08,865
-¿Y tus padres?
+ï¿½Y tus padres?
 
 390
 00:33:10,325 --> 00:33:14,579
-No les he hablado desde que tenía 17.
-Yo lo decidí.
+No les he hablado desde que tenï¿½a 17.
+Yo lo decidï¿½.
 
 391
 00:33:17,540 --> 00:33:21,210
@@ -1726,15 +1726,15 @@ para celebrar la Navidad.
 
 393
 00:33:25,090 --> 00:33:26,216
-La Navidad es una ficción.
+La Navidad es una ficciï¿½n.
 
 394
 00:33:27,008 --> 00:33:28,759
-Cierto. La Navidad es una ficción.
+Cierto. La Navidad es una ficciï¿½n.
 
 395
 00:33:28,760 --> 00:33:29,970
-Olvidé eso.
+Olvidï¿½ eso.
 
 396
 00:33:30,929 --> 00:33:32,931
@@ -1747,11 +1747,11 @@ Pero yo no dije eso.
 398
 00:33:35,767 --> 00:33:38,770
 No quise...
-Eso ya dependerá de qué me trajiste.
+Eso ya dependerï¿½ de quï¿½ me trajiste.
 
 399
 00:33:40,689 --> 00:33:42,732
-Veme en la cafetería en dos horas y media.
+Veme en la cafeterï¿½a en dos horas y media.
 
 400
 00:33:44,568 --> 00:33:45,859
@@ -1760,7 +1760,7 @@ Bien.
 401
 00:33:45,860 --> 00:33:50,532
 Hay xilitol-5-fosfato que quiero purificar
-antes de la próxima semana.
+antes de la prï¿½xima semana.
 
 402
 00:33:52,742 --> 00:33:54,744
@@ -1772,16 +1772,16 @@ Dos horas y media.
 
 404
 00:34:54,137 --> 00:34:55,137
-¿Cocinaste para mí?
+ï¿½Cocinaste para mï¿½?
 
 405
 00:34:55,889 --> 00:34:57,723
-No te prometo que sabrá tan bien
+No te prometo que sabrï¿½ tan bien
 como lo que haces,
 
 406
 00:34:57,724 --> 00:35:02,687
-pero hice uno de práctica
+pero hice uno de prï¿½ctica
 y fue comestible.
 
 407
@@ -1799,11 +1799,11 @@ Esto es raro. Yo...
 
 410
 00:35:19,996 --> 00:35:20,996
-Sí.
+Sï¿½.
 
 411
 00:35:20,997 --> 00:35:22,582
-¿Estoy lejos? Sí.
+ï¿½Estoy lejos? Sï¿½.
 
 412
 00:35:40,684 --> 00:35:42,685
@@ -1811,19 +1811,19 @@ Bueno, no es...
 
 413
 00:35:42,686 --> 00:35:44,354
-Está bien. Bien hecho.
+Estï¿½ bien. Bien hecho.
 
 414
 00:35:44,854 --> 00:35:45,855
-¿Bien hecho?
+ï¿½Bien hecho?
 
 415
 00:35:48,608 --> 00:35:50,026
-O sea que está bien cocido.
+O sea que estï¿½ bien cocido.
 
 416
 00:35:50,777 --> 00:35:51,778
-Está rico.
+Estï¿½ rico.
 
 417
 00:35:56,116 --> 00:35:57,117
@@ -1831,11 +1831,11 @@ Tu regalo.
 
 418
 00:36:10,255 --> 00:36:12,090
-Seis Treinta podría acompañarte a correr.
+Seis Treinta podrï¿½a acompaï¿½arte a correr.
 
 419
 00:36:13,091 --> 00:36:14,968
-Porque definitivamente no lo haré contigo.
+Porque definitivamente no lo harï¿½ contigo.
 
 420
 00:36:18,930 --> 00:36:20,098
@@ -1843,15 +1843,15 @@ Es perfecto.
 
 421
 00:36:24,311 --> 00:36:25,478
-Tengo algo más.
+Tengo algo mï¿½s.
 
 422
 00:36:28,023 --> 00:36:29,608
-Es pequeña, pero...
+Es pequeï¿½a, pero...
 
 423
 00:36:33,945 --> 00:36:35,822
-Deberías mudarte conmigo.
+Deberï¿½as mudarte conmigo.
 
 424
 00:36:36,531 --> 00:36:38,866
@@ -1860,11 +1860,11 @@ Tal vez piensas que es muy pronto,
 425
 00:36:38,867 --> 00:36:43,412
 pero siempre estamos juntos.
-Además, es mucho espacio para una persona.
+Ademï¿½s, es mucho espacio para una persona.
 
 426
 00:36:43,413 --> 00:36:46,790
-Así que es ilógico
+Asï¿½ que es ilï¿½gico
 que sigamos yendo y viniendo,
 
 427
@@ -1878,24 +1878,24 @@ para Seis Treinta.
 
 429
 00:36:52,589 --> 00:36:56,343
-Sí, extremadamente desorientador
+Sï¿½, extremadamente desorientador
 para Seis Treinta.
 
 430
 00:36:57,010 --> 00:37:01,013
-Tendré que contribuir con el alquiler.
+Tendrï¿½ que contribuir con el alquiler.
 
 431
 00:37:01,014 --> 00:37:03,766
-Soy el dueño de la casa. Ya está pagada.
+Soy el dueï¿½o de la casa. Ya estï¿½ pagada.
 
 432
 00:37:03,767 --> 00:37:06,853
-No, contribuiré de alguna forma.
+No, contribuirï¿½ de alguna forma.
 
 433
 00:37:12,359 --> 00:37:15,153
-Haré la cena por cuatro noches.
+Harï¿½ la cena por cuatro noches.
 
 434
 00:37:17,864 --> 00:37:19,199
@@ -1911,11 +1911,11 @@ Bueno, voy a probarlo.
 
 437
 00:37:35,799 --> 00:37:37,884
-Creo que todavía le falta algo.
+Creo que todavï¿½a le falta algo.
 
 438
 00:37:39,052 --> 00:37:41,429
-Sí, le faltan algunas cosas,
+Sï¿½, le faltan algunas cosas,
 
 439
 00:37:42,430 --> 00:37:43,806
@@ -1927,15 +1927,15 @@ Gracias.
 
 441
 00:37:52,899 --> 00:37:56,695
-Bueno, dime. ¿Qué le falta?
+Bueno, dime. ï¿½Quï¿½ le falta?
 
 442
 00:37:58,405 --> 00:38:00,073
-¿Tienes tu cuaderno y tu lápiz?
+ï¿½Tienes tu cuaderno y tu lï¿½piz?
 
 443
 00:38:03,618 --> 00:38:07,955
-Harriet. Perdón, es que está aprendiendo
+Harriet. Perdï¿½n, es que estï¿½ aprendiendo
 a andar con su correa.
 
 444
@@ -1945,33 +1945,33 @@ Tengo buenas noticias.
 
 445
 00:38:14,379 --> 00:38:20,050
-Carajo, la reunión. Discúlpame.
-He hecho la investigación con Elizabeth.
+Carajo, la reuniï¿½n. Discï¿½lpame.
+He hecho la investigaciï¿½n con Elizabeth.
 
 446
 00:38:20,051 --> 00:38:23,679
-Tenemos una presentación en unas horas.
+Tenemos una presentaciï¿½n en unas horas.
 
 447
 00:38:23,680 --> 00:38:26,391
-No te preocupes. Se ve que estás ocupado.
+No te preocupes. Se ve que estï¿½s ocupado.
 
 448
 00:38:27,267 --> 00:38:28,267
-¿Y cómo te fue?
+ï¿½Y cï¿½mo te fue?
 
 449
 00:38:28,268 --> 00:38:29,936
-¿Cómo crees que fue?
+ï¿½Cï¿½mo crees que fue?
 
 450
 00:38:31,146 --> 00:38:34,608
-- Déjame ayudarte.
+- Dï¿½jame ayudarte.
 - Yo puedo. Gracias.
 
 451
 00:38:36,318 --> 00:38:37,819
-Buena suerte con tu presentación.
+Buena suerte con tu presentaciï¿½n.
 
 452
 00:39:03,970 --> 00:39:06,972
@@ -1979,29 +1979,29 @@ Con base en el trabajo de Pauling,
 
 453
 00:39:06,973 --> 00:39:11,060
-mi hipótesis apoya la noción... Lo siento.
+mi hipï¿½tesis apoya la nociï¿½n... Lo siento.
 
 454
 00:39:11,061 --> 00:39:12,311
-Mi hipótesis,
+Mi hipï¿½tesis,
 
 455
 00:39:12,312 --> 00:39:14,146
-respaldada por la noción
+respaldada por la nociï¿½n
 
 456
 00:39:14,147 --> 00:39:18,400
-de que las proteínas
-están formadas por aminoácidos...
+de que las proteï¿½nas
+estï¿½n formadas por aminoï¿½cidos...
 
 457
 00:39:18,401 --> 00:39:21,237
-Perdón, por cadenas.
-Están formadas por cadenas,
+Perdï¿½n, por cadenas.
+Estï¿½n formadas por cadenas,
 
 458
 00:39:21,238 --> 00:39:23,573
-cadenas enteras de aminoácidos.
+cadenas enteras de aminoï¿½cidos.
 
 459
 00:39:25,492 --> 00:39:26,743
@@ -2009,7 +2009,7 @@ Es bastante emocionante.
 
 460
 00:40:09,077 --> 00:40:10,078
-¿Estás lista?
+ï¿½Estï¿½s lista?
 
 461
 00:40:11,371 --> 00:40:12,747
@@ -2026,8 +2026,8 @@ investigadas minuciosamente,
 
 464
 00:40:33,310 --> 00:40:37,771
-así que nos emociona escuchar
-qué lo mantuvo encerrado tanto tiempo.
+asï¿½ que nos emociona escuchar
+quï¿½ lo mantuvo encerrado tanto tiempo.
 
 465
 00:40:37,772 --> 00:40:39,023
@@ -2035,18 +2035,18 @@ Gracias, Dr. Donatti,
 
 466
 00:40:39,024 --> 00:40:42,861
-pero Elizabeth hará la presentación
-el día de hoy como la autora principal.
+pero Elizabeth harï¿½ la presentaciï¿½n
+el dï¿½a de hoy como la autora principal.
 
 467
 00:40:48,700 --> 00:40:52,745
 El Dr. Evans y yo hemos investigado
-la síntesis nucleótidos
+la sï¿½ntesis nucleï¿½tidos
 
 468
 00:40:52,746 --> 00:40:57,042
-como una forma de comprender la evolución
-de la química prebiótica y la abiogénesis.
+como una forma de comprender la evoluciï¿½n
+de la quï¿½mica prebiï¿½tica y la abiogï¿½nesis.
 
 469
 00:40:57,626 --> 00:40:59,001
@@ -2054,17 +2054,17 @@ A diferencia del grupo de los aminos,
 
 470
 00:40:59,002 --> 00:41:01,503
-partimos del supuesto básico
+partimos del supuesto bï¿½sico
 de que el ADN,
 
 471
 00:41:01,504 --> 00:41:04,049
-y no una proteína,
-es el cimiento básico de la vida.
+y no una proteï¿½na,
+es el cimiento bï¿½sico de la vida.
 
 472
 00:41:05,300 --> 00:41:07,760
-Después de aislar con éxito el PRPP,
+Despuï¿½s de aislar con ï¿½xito el PRPP,
 
 473
 00:41:07,761 --> 00:41:10,387
@@ -2078,8 +2078,8 @@ y purinas, respectivamente.
 
 475
 00:41:13,808 --> 00:41:18,563
-Disculpe, ¿dice que pueden crear
-nucleótidos desde cero?
+Disculpe, ï¿½dice que pueden crear
+nucleï¿½tidos desde cero?
 
 476
 00:41:19,147 --> 00:41:21,148
@@ -2088,11 +2088,11 @@ Es justo lo que digo, Dr. Price.
 477
 00:41:21,149 --> 00:41:23,859
 Aunque haya logrado
-sintetizar nucleótidos,
+sintetizar nucleï¿½tidos,
 
 478
 00:41:23,860 --> 00:41:28,281
-aquí en Hastings creemos
+aquï¿½ en Hastings creemos
 que el ADN no tiene futuro.
 
 479
@@ -2106,47 +2106,47 @@ no tiene nada de importancia.
 
 481
 00:41:33,078 --> 00:41:37,414
-Sin importar si cree que las proteínas
+Sin importar si cree que las proteï¿½nas
 o el ADN son los cimientos de la vida,
 
 482
 00:41:37,415 --> 00:41:40,793
-esta vía de síntesis es novedosa.
+esta vï¿½a de sï¿½ntesis es novedosa.
 
 483
 00:41:40,794 --> 00:41:43,462
 Diels y Alder ganaron el Premios Nobel
-por síntesis de dienos.
+por sï¿½ntesis de dienos.
 
 484
 00:41:43,463 --> 00:41:44,547
-Señorita Zott.
+Seï¿½orita Zott.
 
 485
 00:41:44,548 --> 00:41:47,258
-¿Señorita? ¿No es doctora?
+ï¿½Seï¿½orita? ï¿½No es doctora?
 
 486
 00:41:47,259 --> 00:41:48,342
-Técnica de laboratorio.
+Tï¿½cnica de laboratorio.
 
 487
 00:41:48,343 --> 00:41:51,262
-Su investigación
+Su investigaciï¿½n
 es la base de esta propuesta.
 
 488
 00:41:51,263 --> 00:41:54,598
 Dr. Evans,
-esta institución tiene una reputación.
+esta instituciï¿½n tiene una reputaciï¿½n.
 
 489
 00:41:54,599 --> 00:41:56,350
-Una reputación que se basa
+Una reputaciï¿½n que se basa
 
 490
 00:41:56,351 --> 00:41:59,562
-en que científicos de renombre,
+en que cientï¿½ficos de renombre,
 como usted,
 
 491
@@ -2155,8 +2155,8 @@ hagan un trabajo de renombre.
 
 492
 00:42:01,940 --> 00:42:04,858
-No en las teorías engañosas
-de una técnica de laboratorio bonita
+No en las teorï¿½as engaï¿½osas
+de una tï¿½cnica de laboratorio bonita
 
 493
 00:42:04,859 --> 00:42:08,028
@@ -2164,26 +2164,26 @@ que lo distrajo del trabajo real.
 
 494
 00:42:08,029 --> 00:42:10,115
-Este trabajo es revelador, señor.
+Este trabajo es revelador, seï¿½or.
 
 495
 00:42:10,991 --> 00:42:15,996
-Señor, ¿una técnica de laboratorio
-como líder por encima de un químico?
+Seï¿½or, ï¿½una tï¿½cnica de laboratorio
+como lï¿½der por encima de un quï¿½mico?
 
 496
 00:42:16,663 --> 00:42:20,249
-Hastings sería el hazmerreír
-de toda la comunidad científica.
+Hastings serï¿½a el hazmerreï¿½r
+de toda la comunidad cientï¿½fica.
 
 497
 00:42:20,250 --> 00:42:21,751
-Preferiría cerrar el lugar.
+Preferirï¿½a cerrar el lugar.
 
 498
 00:42:22,919 --> 00:42:27,048
-¿Falta algún otro químico para presentar?
-¿O ya terminamos?
+ï¿½Falta algï¿½n otro quï¿½mico para presentar?
+ï¿½O ya terminamos?
 
 499
 00:42:27,924 --> 00:42:29,426
@@ -2215,7 +2215,7 @@ a menos que lo presentemos.
 505
 00:42:47,360 --> 00:42:49,612
 - El trabajo es muy importante.
-- Estaba protegiéndote.
+- Estaba protegiï¿½ndote.
 
 506
 00:42:49,613 --> 00:42:52,114
@@ -2223,12 +2223,12 @@ Calvin, necesito que entiendas esto.
 
 507
 00:42:52,115 --> 00:42:55,826
-No seré nadie si no me defiendo yo sola.
+No serï¿½ nadie si no me defiendo yo sola.
 
 508
 00:42:55,827 --> 00:42:59,413
 Y yo necesito que entiendas esto:
-tú eres lo que más aprecio en este mundo.
+tï¿½ eres lo que mï¿½s aprecio en este mundo.
 
 509
 00:42:59,414 --> 00:43:01,457
@@ -2245,15 +2245,15 @@ pero no voy a creerte.
 
 512
 00:43:05,879 --> 00:43:07,129
-Cuando ciertos átomos chocan,
+Cuando ciertos ï¿½tomos chocan,
 
 513
 00:43:07,130 --> 00:43:09,590
-es instantáneo e inevitable.
+es instantï¿½neo e inevitable.
 
 514
 00:43:09,591 --> 00:43:10,926
-Es química básica.
+Es quï¿½mica bï¿½sica.
 
 515
 00:43:14,012 --> 00:43:15,096
@@ -2269,11 +2269,11 @@ Nos presentaremos solos sin Hastings.
 
 518
 00:43:26,191 --> 00:43:27,275
-¿Y puedes hacer eso?
+ï¿½Y puedes hacer eso?
 
 519
 00:43:28,318 --> 00:43:30,111
-No sé si alguien lo ha intentado.
+No sï¿½ si alguien lo ha intentado.
 
 520
 00:44:18,743 --> 00:44:20,662
@@ -2281,7 +2281,7 @@ No me siento mal cuando estoy contigo.
 
 521
 00:44:22,664 --> 00:44:23,665
-¿Gracias?
+ï¿½Gracias?
 
 522
 00:44:25,417 --> 00:44:26,418
@@ -2294,8 +2294,8 @@ he vivido con este...
 
 524
 00:44:33,091 --> 00:44:37,888
-pánico inexplicable
-en el centro de mi corazón.
+pï¿½nico inexplicable
+en el centro de mi corazï¿½n.
 
 525
 00:44:40,599 --> 00:44:42,601
@@ -2313,7 +2313,7 @@ te refieres al modelo tradicional,
 
 528
 00:45:02,037 --> 00:45:05,664
-me gustaría ser clara
+me gustarï¿½a ser clara
 para que no haya confusiones.
 
 529
@@ -2322,20 +2322,20 @@ No quiero casarme y no quiero tener hijos.
 
 530
 00:45:09,252 --> 00:45:12,922
-Claro. No ahora, pero en algún momento.
+Claro. No ahora, pero en algï¿½n momento.
 
 531
 00:45:12,923 --> 00:45:14,048
-Serías una maravillosa...
+Serï¿½as una maravillosa...
 
 532
 00:45:14,049 --> 00:45:17,885
 Calvin,
-tú podrías tener seis o siete hijos
+tï¿½ podrï¿½as tener seis o siete hijos
 
 533
 00:45:17,886 --> 00:45:20,597
-y no afectaría en nada
+y no afectarï¿½a en nada
 a tu vida ni a tu trabajo.
 
 534
@@ -2344,12 +2344,12 @@ Una mujer tiene que elegir.
 
 535
 00:45:24,434 --> 00:45:28,396
-¿Quiere tener hijos
+ï¿½Quiere tener hijos
 o quiere hacer cualquier otra cosa?
 
 536
 00:45:30,023 --> 00:45:33,360
-Yo ya tomé mi decisión y no tomaré otra.
+Yo ya tomï¿½ mi decisiï¿½n y no tomarï¿½ otra.
 
 537
 00:45:34,277 --> 00:45:37,322
@@ -2357,7 +2357,7 @@ Y si eso pone fin a esto,
 
 538
 00:45:38,531 --> 00:45:39,574
-lo entenderé.
+lo entenderï¿½.
 
 539
 00:45:50,669 --> 00:45:52,128
@@ -2365,11 +2365,11 @@ Gracias por decirme.
 
 540
 00:45:53,129 --> 00:45:54,297
-Ahora ya sé.
+Ahora ya sï¿½.
 
 541
 00:45:55,465 --> 00:45:56,466
-¿Sabes qué?
+ï¿½Sabes quï¿½?
 
 542
 00:45:58,843 --> 00:45:59,970
@@ -2377,21 +2377,21 @@ Lo que necesitas.
 
 543
 00:46:02,973 --> 00:46:06,726
-Mientras estés conmigo y seas feliz,
-es suficiente para mí.
+Mientras estï¿½s conmigo y seas feliz,
+es suficiente para mï¿½.
 
 544
 00:46:07,602 --> 00:46:12,315
-Es más de lo que había imaginado
+Es mï¿½s de lo que habï¿½a imaginado
 y es completamente...
 
 545
 00:46:13,650 --> 00:46:14,651
-¿Qué?
+ï¿½Quï¿½?
 
 546
 00:46:15,735 --> 00:46:16,903
-No lo sé, yo...
+No lo sï¿½, yo...
 
 547
 00:46:19,739 --> 00:46:24,159
@@ -2406,7 +2406,7 @@ nuestro pasado y predecir nuestro futuro,
 549
 00:46:28,665 --> 00:46:35,005
 pero empiezo a preguntarme
-si olvidamos la variante más importante.
+si olvidamos la variante mï¿½s importante.
 
 550
 00:46:36,214 --> 00:46:37,674
@@ -2418,22 +2418,22 @@ La sorpresa.
 
 552
 00:46:41,219 --> 00:46:42,220
-¿La sorpresa?
+ï¿½La sorpresa?
 
 553
 00:46:42,846 --> 00:46:48,935
-¿Y si la vida
+ï¿½Y si la vida
 es necesariamente impredecible?
 
 554
 00:46:49,978 --> 00:46:54,357
-Quizá sea eso lo que la hace posible
+Quizï¿½ sea eso lo que la hace posible
 en primer lugar.
 
 555
 00:46:55,984 --> 00:47:00,071
-¿Así es como explicas la abiogénesis?
-¿Cómo empezó la vida?
+ï¿½Asï¿½ es como explicas la abiogï¿½nesis?
+ï¿½Cï¿½mo empezï¿½ la vida?
 
 556
 00:47:01,323 --> 00:47:02,324
@@ -2441,13 +2441,13 @@ Por sorpresa.
 
 557
 00:47:05,243 --> 00:47:07,829
-- ¿Crees que la Remsen creerá eso?
+- ï¿½Crees que la Remsen creerï¿½ eso?
 - Bien. Para.
 
 558
 00:47:09,080 --> 00:47:13,376
-Escucha la teoría revolucionaria
-de una de las mentes más brillantes:
+Escucha la teorï¿½a revolucionaria
+de una de las mentes mï¿½s brillantes:
 
 559
 00:47:13,877 --> 00:47:15,795
@@ -2479,7 +2479,7 @@ Muy cerca.
 
 566
 00:47:44,783 --> 00:47:48,453
-Sí, iremos a correr. Buen chico.
+Sï¿½, iremos a correr. Buen chico.
 
 567
 00:47:57,963 --> 00:48:00,422
@@ -2491,26 +2491,26 @@ Bien, vamos.
 
 569
 00:48:06,179 --> 00:48:07,597
-Sí, amigo.
+Sï¿½, amigo.
 
 570
 00:48:41,131 --> 00:48:45,969
-Vamos. Oye, Seis Treinta, está bien.
-Ven aquí. Vamos.
+Vamos. Oye, Seis Treinta, estï¿½ bien.
+Ven aquï¿½. Vamos.
 
 571
 00:49:03,737 --> 00:49:05,989
 - No.
-- ¡No se mueve!
+- ï¿½No se mueve!
 
 572
 00:49:06,990 --> 00:49:09,826
-- Vengan, ayúdenme.
-- ¡Traigan ayuda!
+- Vengan, ayï¿½denme.
+- ï¿½Traigan ayuda!
 
 9999
 00:00:00,010 --> 00:00:00,020
-• Sincronizado y corregido por MarcusL •
-• www.subdivx.com •
+ï¿½ Sincronizado y corregido por MarcusL ï¿½
+ï¿½ www.subdivx.com ï¿½
 
 
